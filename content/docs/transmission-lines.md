@@ -32,7 +32,7 @@ d=-z
 {{< /katex >}}
 and denotes distance from the load.
 
-This can be derived using the formula for the voltage phasor in a lossless transmission line ({{< katex >}}\gamma=j\beta{{< /katex >}})
+This can be derived using the formula for the voltage phasor in a lossless ({{< katex >}}\gamma=j\beta{{< /katex >}}) transmission line
 {{< katex >}}
 \tilde{V}\left(z\right)=V_0^+\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)
 {{< /katex >}}
