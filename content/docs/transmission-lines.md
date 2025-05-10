@@ -30,3 +30,7 @@ This can be derived from
 {{< katex display=true >}}
 \left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)^{*}\right)^{\frac{1}{2}}
 {{< /katex >}}
+
+{{< katex display=true >}}
+\Gamma=\left|\right|e^{j\theta_r}
+{{< /katex >}}
