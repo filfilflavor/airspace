@@ -3,7 +3,7 @@ title: Introduction
 type: docs
 ---
 
-Visit this [link](transmission-lines) to view some transmission line equations.
+Visit [this link](docs/transmission-lines) to view some transmission line equations.
 
 # Acerbo datus maxime
 
