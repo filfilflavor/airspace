@@ -26,11 +26,11 @@ corresponds to the sending end (generator terminals) and spatial position
 {{< katex >}}
 z=0
 {{< /katex >}}
-corresponds to the location of the load.
+corresponds to the location of the load. Coordinate{{< katex >}}d{{< /katex >}}is defined as
 {{< katex >}}
 d=-z
 {{< /katex >}}
-denotes distance from the load.
+and denotes distance from the load.
 
 This can be derived from
 
