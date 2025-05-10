@@ -18,6 +18,20 @@ in a *lossless* transmission line is
 \end{split}
 {{< /katex >}}
 
+Note that spatial position
+{{< katex >}}
+z=-l
+{{< /katex >}}
+corresponds to the sending end (generator terminals) and spatial position
+{{< katex >}}
+z=0
+{{< /katex >}}
+corresponds to the location of the load.
+{{< katex >}}
+d=-z
+{{< /katex >}}
+denotes distance from the load.
+
 This can be derived from
 
 {{< katex display=true >}}
