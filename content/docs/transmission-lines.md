@@ -1,9 +1,9 @@
 +++
 weight = 1
-title = 'Transmission Lines'
+title = 'Transmission line equations'
 date = 2024-01-14T07:07:07+01:00
 +++
-## Transmission Lines
+## A few transmission line equations
 
 The magnitude of the voltage phasor
 {{< katex >}}
