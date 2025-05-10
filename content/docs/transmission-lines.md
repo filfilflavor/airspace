@@ -55,3 +55,10 @@ This can be derived from
 \left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+\left|\Gamma\right|\left(e^{j\left(2\beta z+\theta_r\right)}+e^{-j\left(2\beta z+\theta_r\right)}\right)\right)^{\frac{1}{2}}
 {{< /katex >}}
 
+{{< katex display=true >}}
+e^{jx}+e^{-jx}=2\cos\left(x\right)
+{{< /katex >}}
+
+{{< katex display=true >}}
+\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+\left|\Gamma\right|\left(e^{j\left(2\beta z+\theta_r\right)}+e^{-j\left(2\beta z+\theta_r\right)}\right)\right)^{\frac{1}{2}}
+{{< /katex >}}
