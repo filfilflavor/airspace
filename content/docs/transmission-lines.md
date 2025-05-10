@@ -9,6 +9,13 @@ date = 2024-01-14T07:07:07+01:00
 \left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
 {{< /katex >}}
 
+{{< katex display=true >}}
+\begin{split}
+A & = \frac{\pi r^2}{2} \\
+ & = \frac{1}{2} \pi r^2
+\end{split}
+{{< /katex >}}
+
 This can be derived from
 
 {{< katex display=true >}}
