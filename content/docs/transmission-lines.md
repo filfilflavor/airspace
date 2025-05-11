@@ -30,7 +30,7 @@ corresponds to the location of the load. Coordinate{{< katex >}}d{{< /katex >}}i
 {{< katex >}}
 d=-z
 {{< /katex >}}
-and denotes distance from the load. Since cosine is an even function {{< katex >}}\cos\left(-x\right)=\cos\left(x\right){{< /katex >}}, we also know that
+and denotes distance from the load. Since cosine is an even function ({{< katex >}}\cos\left(-x\right)=\cos\left(x\right){{< /katex >}}), we also know that
 
 {{< katex display=true >}}
 \begin{split}
