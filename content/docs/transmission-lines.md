@@ -99,4 +99,4 @@ Fawwaz T. Ulaby and Umberto Ravaioli. *Fundamentals of Applied Electromagnetics*
 
 See page 261 (PDF page 276) (Section 8-5.2: Standing Waves) of the following text: https://www.fulcrum.org/ebooks/0p0969731/download (ISBNs: 9781607859116 (hardcover); 9781607859123 (open access, electronic))
 
-The above link is from https://doi.org/10.3998/mpub.13073174
+The above link is from https://doi.org/10.3998/mpub.13073174 https://www.fulcrum.org/concern/monographs/r781wk11q
