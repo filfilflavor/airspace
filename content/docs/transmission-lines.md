@@ -97,6 +97,6 @@ See page 67 (Section 2-6.2: Standing Waves) of the following text:
 
 Fawwaz T. Ulaby and Umberto Ravaioli. *Fundamentals of Applied Electromagnetics*. Pearson. 8th edition, 2020. ISBN-10 0136681581. ISBN-13 9780136681588.
 
-See page 261 (PDF page 276) (Section 8-5.2: Standing Waves) of the following text: https://www.fulcrum.org/ebooks/0p0969731/download
+See page 261 (PDF page 276) (Section 8-5.2: Standing Waves) of the following text: https://www.fulcrum.org/ebooks/0p0969731/download (ISBNs: 9781607859116 (hardcover); 9781607859123 (open access, electronic))
 
 The above link is from https://doi.org/10.3998/mpub.13073174
