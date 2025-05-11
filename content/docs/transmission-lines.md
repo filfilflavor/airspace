@@ -85,3 +85,7 @@ e^{jx}+e^{-jx}=2\cos\left(x\right)
 {{< katex display=true >}}
 \left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}
 {{< /katex >}}
+
+See page 67 of the following text (Section 2-6.2: Standing Waves):
+
+Fawwaz T. Ulaby and Umberto Ravaioli. *Fundamentals of Applied Electromagnetics*. Pearson. 8th edition, 2020. ISBN-10 0136681581. ISBN-13 9780136681588.
