@@ -58,6 +58,16 @@ This can be derived using the formula for the voltage phasor in a lossless (\(\g
 
 \[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\]
 
+Note that in the lossy case (), the result is
+
+\[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(\left(e^{-\alpha z-j\beta z}+\left|\Gamma\right|e^{j\theta_r}e^{\alpha z+j\beta z}\right)\left(e^{-\alpha z-j\beta z}+\left|\Gamma\right|e^{j\theta_r}e^{\alpha z+j\beta z}\right)^{*}\right)^{\frac{1}{2}}\]
+
+\[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(\left(e^{-\alpha z}e^{-j\beta z}+\left|\Gamma\right|e^{\alpha z}e^{j\theta_r}e^{j\beta z}\right)\left(e^{-\alpha z}e^{j\beta z}+\left|\Gamma\right|e^{\alpha z}e^{-j\theta_r}e^{-j\beta z}\right)\right)^{\frac{1}{2}}\]
+
+\[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|e^{-j\theta_r}e^{-j2\beta z}+\left|\Gamma\right|e^{j\theta_r}e^{j2\beta z}+\left|\Gamma\right|^2e^{2\alpha z}\right)^{\frac{1}{2}}\]
+
+\[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\]
+
 ## References
 
 See page 67 (Section 2-6.2: Standing Waves) of the following text:
