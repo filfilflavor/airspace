@@ -50,6 +50,8 @@ This can be derived using the formula for the voltage phasor in a lossless (\(\g
 
 \[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\]
 
+### References
+
 See page 67 (Section 2-6.2: Standing Waves) of the following text:
 
 Fawwaz T. Ulaby and Umberto Ravaioli. *Fundamentals of Applied Electromagnetics*. Pearson. 8th edition, 2020. ISBN-10 0136681581. ISBN-13 9780136681588.
