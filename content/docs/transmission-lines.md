@@ -4,7 +4,9 @@ title = 'Transmission line equations'
 date = 2024-01-14T07:07:07+01:00
 +++
 
-## A few transmission line equations
+# A few transmission line equations
+
+## Magnitude of voltage and current phasors in lossless transmission line
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a *lossless* transmission line is
 
@@ -50,7 +52,7 @@ This can be derived using the formula for the voltage phasor in a lossless (\(\g
 
 \[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\]
 
-### References
+## References
 
 See page 67 (Section 2-6.2: Standing Waves) of the following text:
 
