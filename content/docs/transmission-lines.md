@@ -58,7 +58,7 @@ This can be derived using the formula for the voltage phasor in a lossless (\(\g
 
 \[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\]
 
-Note that in the lossy case (), the result is
+Note that in the lossy case (\(\gamma=\alpha+j\beta\)), the result is
 
 \[\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(\left(e^{-\alpha z-j\beta z}+\left|\Gamma\right|e^{j\theta_r}e^{\alpha z+j\beta z}\right)\left(e^{-\alpha z-j\beta z}+\left|\Gamma\right|e^{j\theta_r}e^{\alpha z+j\beta z}\right)^{*}\right)^{\frac{1}{2}}\]
 
