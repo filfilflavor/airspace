@@ -14,8 +14,6 @@ source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umi
 
 ## Magnitude of voltage and current phasors in lossless transmission line
 
-<p align="center">hi</p>
-
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a *lossless* transmission line is
 
 {{< katex display=true >}}
