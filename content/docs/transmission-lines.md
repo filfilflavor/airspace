@@ -6,7 +6,7 @@ date = 2024-01-14T07:07:07+01:00
 
 # A few transmission line equations
 
-![Figure 8.9: Transmission line of length l connected on one end to a generator circuit and on the other end to a load ZL. The load is located at z=0 and the generator terminals are at z=l.](/img/f2.09.png)
+<p align="center"><img alt="Figure 8.9: Transmission line of length l connected on one end to a generator circuit and on the other end to a load ZL. The load is located at z=0 and the generator terminals are at z=l." src="/img/f2.09.png" /></p>
 
 Figure 8.9: Transmission line of length *l* connected on one end to a generator circuit and on the other end to a load ZL. The load is located at *z*=0 and the generator terminals are at *z*=l.
 
