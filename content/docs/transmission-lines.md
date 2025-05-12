@@ -30,7 +30,7 @@ corresponds to the location of the load. Coordinate{{< katex >}}d{{< /katex >}}i
 {{< katex >}}
 d=-z
 {{< /katex >}}
-and denotes distance from the load. Since cosine is an even function ({{< katex >}}\cos\left(-x\right)=\cos\left(x\right){{< /katex >}}), we also know that
+and denotes distance from the load. Since cosine is an even function ({{< katexModified >}}\cos\left(-x\right)=\cos\left(x\right){{< /katexModified >}}), we also know that
 
 {{< katex display=true >}}
 \begin{split}
@@ -39,7 +39,7 @@ and denotes distance from the load. Since cosine is an even function ({{< katex 
 \end{split}
 {{< /katex >}}
 
-This can be derived using the formula for the voltage phasor in a lossless ({{< katex >}}\gamma=j\beta{{< /katex >}}) transmission line
+This can be derived using the formula for the voltage phasor in a lossless ({{< katexModified >}}\gamma=j\beta{{< /katexModified >}}) transmission line
 {{< katex >}}
 \tilde{V}\left(z\right)=V_0^+\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)
 {{< /katex >}}
