@@ -1,5 +1,5 @@
 +++
-weight = 1
+weight = 2
 title = '\(n\)-th root of a complex number'
 date = 2024-01-14T07:07:07+01:00
 +++
