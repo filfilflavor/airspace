@@ -14,11 +14,11 @@ Denote by the set \(\mathbb{R}_{+}\) as the [strictly positive real numbers](htt
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
-Vector addition (\(\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\)):
+Vector addition in \(\mathbb{R}_{+}\) is defined in the following manner (\(\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\)):
 
 \[\mathbf{u}\oplus\mathbf{v}=\mathbf{u}\mathbf{v}\]
 
-Scalar multiplication (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
+Scalar multiplication in \(\mathbb{R}_{+}\) is defined in the following manner (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
 
 \[c\odot\mathbf{u}=\mathbf{u}^{c}\]
 
