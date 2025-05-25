@@ -30,7 +30,7 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 \[\mathbf{u}=\mathbf{v}^{\log_{\mathbf{v}}\left(\mathbf{u}\oplus\mathbf{v}\right)-1}\]
 
-\[a\in(0,1)\cup(1,\infty)\]
+\[a\in\left(0,1\right)\cup\left(1,\infty\right)\]
 
 ## References
 
