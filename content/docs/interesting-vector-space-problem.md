@@ -18,9 +18,9 @@ Vector addition (\(\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\)):
 
 \[\mathbf{u}\oplus\mathbf{v}=\mathbf{u}\mathbf{v}\]
 
-Scalar multiplication (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(\lambda\in\mathbb{R}\)):
+Scalar multiplication (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
 
-\[\lambda\odot\mathbf{u}=\mathbf{u}^{\lambda}\]
+\[c\odot\mathbf{u}=\mathbf{u}^{c}\]
 
 Prove that \(\mathbb{R}_{+}\) is a vector space.
 
