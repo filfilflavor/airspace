@@ -30,6 +30,8 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 \[\mathbf{u}=\mathbf{v}^{\log_{\mathbf{v}}\left(\mathbf{u}\oplus\mathbf{v}\right)-1}\]
 
+\[a\in(0,1)\cup(1,\infty)\]
+
 ## References
 
 https://math.stackexchange.com/questions/1332747/proof-that-mathbbr-is-a-vector-space
