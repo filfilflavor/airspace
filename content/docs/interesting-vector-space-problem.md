@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 3
 title = 'An interesting vector space problem'
 date = 2024-01-14T07:07:07+01:00
 +++
