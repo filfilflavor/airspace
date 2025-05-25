@@ -6,11 +6,15 @@ date = 2024-01-14T07:07:07+01:00
 
 # \(n\)<sup>th</sup> root of a complex number
 
+## Statement
+
 {{< katex display=true >}}
 z^{\frac{1}{n}}=\left(e^{i\theta}\right)^{\frac{1}{n}}=e^{i\left(\frac{\theta+2\pi k}{n}\right)}
 {{< /katex >}}
 
 where \(k\in\mathbb{Z}\). Not realizing this, many people omit the \(i\frac{2\pi k}{n}\) in the exponent and simply state that \(z^{\frac{1}{n}}=e^{\frac{i\theta}{n}}\). While true (simply set \(k\) to \(0\)), it does not include all possible solutions.
+
+## Proof
 
 \[z=e^{i\theta}=\cos\left(\theta\right)+i\sin\left(\theta\right)=\operatorname{cis}\left(\theta\right)\]
 
