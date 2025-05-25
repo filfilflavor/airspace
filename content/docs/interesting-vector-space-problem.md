@@ -12,7 +12,15 @@ date = 2024-01-14T07:07:07+01:00
 \mathbb{R}^{+}
 {{< /katex >}}
 
+\[a\oplus b=ab\]
+
+\[a\odot b=b^{a}\]
+
 ## Proof
+
+\[a=b^{\log_{b}\left(a\oplus b\right)-1}\]
+
+\[a=\log_{b}\left(a\odot b\right)\]
 
 ## References
 
