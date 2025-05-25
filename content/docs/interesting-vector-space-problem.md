@@ -4,12 +4,12 @@ title = 'An interesting vector space problem'
 date = 2024-01-14T07:07:07+01:00
 +++
 
-# An interesting vector space problem with \(\mathbb{R}^{+}\)
+# An interesting vector space problem with \(\mathbb{R}_{+}\)
 
 ## Statement
 
 {{< katex display=true >}}
-\mathbb{R}^{+}
+\mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
 \[x\oplus y=xy\]
