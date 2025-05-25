@@ -30,7 +30,7 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 \[\mathbf{u}=\mathbf{v}^{\log_{\mathbf{v}}\left(\mathbf{u}\oplus\mathbf{v}\right)-1}\]
 
-The dimension of the vector space is \(1\) since any \(\mathbf{u}\in\left(0,1\right)\cup\left(1,\infty\right)\) spans \(\mathbb{R}_{+}\).
+For any \(\mathbf{w}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\mathbf{x}\in\mathbb{R}_{+}\), we can find a scalar \(c\) such that \(c\odot\mathbf{w}=\mathbf{x}\). Therefore, any \(\mathbf{w}\in\left(0,1\right)\cup\left(1,\infty\right)\) can be used as a basis for \(\mathbb{R}_{+}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
 
 ## References
 
