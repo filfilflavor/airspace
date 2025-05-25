@@ -12,11 +12,11 @@ date = 2024-01-14T07:07:07+01:00
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
-\[x\oplus y=xy\]
+\[\mathbf{u}\oplus\mathbf{v}=\mathbf{u}\mathbf{v}\]
 
-\[x,y\in\mathbb{R}^{+}\]
+\[\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\]
 
-\[\lambda\odot x=x^{\lambda}\]
+\[\lambda\odot\mathbf{u}=\mathbf{u}^{\lambda}\]
 
 \[\lambda\in\mathbb{R}\]
 
