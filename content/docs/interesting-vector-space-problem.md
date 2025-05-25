@@ -37,3 +37,5 @@ https://www.stat.uchicago.edu/~lekheng/courses/110f07/math110-hw1sol.pdf
 https://www.math.stonybrook.edu/~scott/mat310.spr05/docs/LogAsIsomorphism.pdf
 
 https://sites.lafayette.edu/thompsmc/files/2015/12/HW7_2_Key.pdf
+
+http://matematika.reseneulohy.cz/2504/the-space-of-positive-real-numbers
