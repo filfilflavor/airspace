@@ -1,6 +1,6 @@
 +++
 weight = 2
-title = '\(n\)-th root of a complex number'
+title = '\(n\)<sup>th</sup> root of a complex number'
 date = 2024-01-14T07:07:07+01:00
 +++
 
@@ -17,10 +17,7 @@ source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umi
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a *lossless* transmission line is
 
 {{< katex display=true >}}
-\begin{split}
-\left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
-&=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
-\end{split}
+z^{\frac{1}{n}}=\left(e^{i\theta}\right)^{\frac{1}{n}}=e^{i\left(\frac{\theta+2k\pi}{n}\right)}
 {{< /katex >}}
 
 Note that spatial position \(z=-l\) corresponds to the sending end (generator terminals) and spatial position \(z=0\) corresponds to the location of the load. Coordinate \(d\) is defined as \(d=-z\) and denotes distance from the load. Since cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
