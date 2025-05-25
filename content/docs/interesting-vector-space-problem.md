@@ -8,6 +8,8 @@ date = 2024-01-14T07:07:07+01:00
 
 ## Statement
 
+Denote by the set \(\mathbb{R}_{+}\) as the [strictly positive real numbers](https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number).
+
 {{< katex display=true >}}
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
@@ -19,6 +21,8 @@ Vector addition (\(\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\)):
 Scalar multiplication (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(\lambda\in\mathbb{R}\)):
 
 \[\lambda\odot\mathbf{u}=\mathbf{u}^{\lambda}\]
+
+Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 ## Proof
 
@@ -39,3 +43,5 @@ https://www.math.stonybrook.edu/~scott/mat310.spr05/docs/LogAsIsomorphism.pdf
 https://sites.lafayette.edu/thompsmc/files/2015/12/HW7_2_Key.pdf
 
 http://matematika.reseneulohy.cz/2504/the-space-of-positive-real-numbers
+
+https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number
