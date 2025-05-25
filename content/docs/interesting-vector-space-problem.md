@@ -12,13 +12,13 @@ date = 2024-01-14T07:07:07+01:00
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
+Vector addition (\(\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\)):
+
 \[\mathbf{u}\oplus\mathbf{v}=\mathbf{u}\mathbf{v}\]
 
-\[\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\]
+Scalar multiplication (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(\lambda\in\mathbb{R}\)):
 
 \[\lambda\odot\mathbf{u}=\mathbf{u}^{\lambda}\]
-
-\[\lambda\in\mathbb{R}\]
 
 ## Proof
 
