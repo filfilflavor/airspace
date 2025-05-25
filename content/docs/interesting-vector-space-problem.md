@@ -33,3 +33,5 @@ https://math.stackexchange.com/questions/1332747/proof-that-mathbbr-is-a-vector-
 https://math.stackexchange.com/questions/1361445/proving-that-v-is-a-vector-space-if-ab-ab-and-a-b-ab
 
 https://www.stat.uchicago.edu/~lekheng/courses/110f07/math110-hw1sol.pdf
+
+https://www.math.stonybrook.edu/~scott/mat310.spr05/docs/LogAsIsomorphism.pdf
