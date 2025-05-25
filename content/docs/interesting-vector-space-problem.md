@@ -12,9 +12,13 @@ date = 2024-01-14T07:07:07+01:00
 \mathbb{R}^{+}
 {{< /katex >}}
 
-\[a\oplus b=ab\]
+\[x\oplus y=xy\]
 
-\[a\odot b=b^{a}\]
+\[x,y\in\mathbb{R}^{+}\]
+
+\[\lambda\odot x=x^{\lambda}\]
+
+\[\lambda\in\mathbb{R}\]
 
 ## Proof
 
@@ -27,3 +31,5 @@ date = 2024-01-14T07:07:07+01:00
 https://math.stackexchange.com/questions/1332747/proof-that-mathbbr-is-a-vector-space
 
 https://math.stackexchange.com/questions/1361445/proving-that-v-is-a-vector-space-if-ab-ab-and-a-b-ab
+
+https://www.stat.uchicago.edu/~lekheng/courses/110f07/math110-hw1sol.pdf
