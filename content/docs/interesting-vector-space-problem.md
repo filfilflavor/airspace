@@ -28,7 +28,7 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 \[a=b^{\log_{b}\left(a\oplus b\right)-1}\]
 
-\[a=\log_{b}\left(a\odot b\right)\]
+\[c=\log_{\mathbf{u}}\left(c\odot\mathbf{u}\right)\]
 
 ## References
 
