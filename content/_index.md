@@ -3,6 +3,8 @@ title: Introduction
 type: docs
 ---
 
+View my main website [here](https://filfilflavor.github.io).
+
 Visit [this link](docs/transmission-lines/) to view some transmission line equations.
 
 # Acerbo datus maxime
