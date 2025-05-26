@@ -47,6 +47,8 @@ I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unl
 
 Axioms 3 and 4 are interesting to consider.
 
+Axiom 3: existence of zero vector : there exists 0  V such that u 0 = u = 0 u for all \(\vec{\textbf{u}}\in\)
+
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
 Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\) where \(\vec{\mathbf{w}}\) is an arbitrary vector that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\log_{e}\left(\vec{\mathbf{u}}\right)=\ln\left(\vec{\mathbf{u}}\right)\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}\) (surjective), and linear.
