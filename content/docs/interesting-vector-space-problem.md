@@ -53,6 +53,8 @@ Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{
 
 Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{+}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{+}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
 
+* A
+
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
 Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\) where \(\vec{\mathbf{w}}\) is an arbitrary vector that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\log_{e}\left(\vec{\mathbf{u}}\right)=\ln\left(\vec{\mathbf{u}}\right)\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}\) (surjective), and linear.
@@ -73,7 +75,9 @@ To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus
 
 \[T\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}^{c}\right)=c\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\]
 
-Therefore, \(T\) is an isomorphism from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\). Because an isomorphism exists from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\), the space \(\mathbb{R}^{+}\) is isomorphic to \(\mathbb{R}\) (\(\mathbb{R}_{+}\cong\mathbb{R}\)). ["Hence, *as far as their vector space properties are concerned*, the spaces V and W are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
+Therefore, \(T\) is an isomorphism from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\). Because an isomorphism exists from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\), the space \(\mathbb{R}^{+}\) is isomorphic to \(\mathbb{R}\) (\(\mathbb{R}_{+}\cong\mathbb{R}\)).
+
+> ["Hence, *as far as their vector space properties are concerned*, the spaces V and W are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
 
 Since \(\mathbb{R}_{+}\cong\mathbb{R}\) and \(\mathbb{R}\) is a vector space, we can conclude that \(\mathbb{R}_{+}\) is a vector space.<sup>[citation?]</sup>
 
