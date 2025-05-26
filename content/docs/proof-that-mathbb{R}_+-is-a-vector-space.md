@@ -22,11 +22,13 @@ Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined as the following (\(\vec{\
 
 \[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=u_{1}v_{1}\]
 
-Meaning, the first (and only) entry of \vec{\mathbf{u}} multiplied by the first (and only) entry of \vec{\mathbf{v}}.
+Meaning, the first (and only) entry of \(\vec{\mathbf{u}}\) multiplied by the first (and only) entry of \(\vec{\mathbf{v}}\) (product of scalars).
 
 Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined as the following (\(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) and \(c\in\mathbb{R}\)):
 
-\[c\odot\vec{\mathbf{u}}=\vec{\mathbf{u}}^{c}\]
+\[c\odot\vec{\mathbf{u}}=u_{1}^{c}\]
+
+Meaning, the first (and only) entry of \(\vec{\mathbf{u}}\) to the power of \(c\) (exponentiation of a strictly positive real number to a real power).
 
 Prove that \(\mathbb{R}_{>0}^{1}\) is a vector space.
 
