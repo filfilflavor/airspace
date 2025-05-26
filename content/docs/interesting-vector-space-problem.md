@@ -26,6 +26,8 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 ## Proof using axioms
 
+A useful reference for these axioms can be found [here](https://www.stat.uchicago.edu/~lekheng/courses/110f07/cheatsheet.pdf).
+
 1. Closure under vector addition
 2. Closure under scalar multiplication
 3. Existence of zero vector
