@@ -18,11 +18,11 @@ Denote by \(\mathbb{R}_{>0}^{1}\) as the set of all vectors with one strictly po
 \mathbb{R}_{>0}^{1}=\left\{\begin{bmatrix}x\end{bmatrix}\in\mathbb{R}^{1}\mid x\in\mathbb{R}\land x>0\right\}
 {{< /katex >}}
 
-Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}_{>0}^{1}\)):
+Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined as the following (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}_{>0}^{1}\)):
 
 \[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=\vec{\mathbf{u}}\vec{\mathbf{v}}\]
 
-Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) and \(c\in\mathbb{R}\)):
+Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined as the following (\(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) and \(c\in\mathbb{R}\)):
 
 \[c\odot\vec{\mathbf{u}}=\vec{\mathbf{u}}^{c}\]
 
