@@ -24,7 +24,9 @@ Scalar multiplication in \(\mathbb{R}_{+}\) is defined in the following manner (
 
 Prove that \(\mathbb{R}_{+}\) is a vector space.
 
-## Proof
+## Proof using axioms
+
+## Proof using isomorphism between \(\mathbb{R}_{+}\) and \(\mathbb{R}\)
 
 \[c=\log_{\mathbf{u}}\left(c\odot\mathbf{u}\right)\]
 
