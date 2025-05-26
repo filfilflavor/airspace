@@ -59,7 +59,7 @@ To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus
 
 Therefore, \(T\) is an isomorphism from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\). Because an isomorphism exists from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\), the space \(\mathbb{R}^{+}\) is isomorphic to \(\mathbb{R}\) (\(\mathbb{R}_{+}\cong\mathbb{R}\)). ["Hence, *as far as their vector space properties are concerned*, the spaces V and W are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
 
-Since \(\mathbb{R}_{+}\cong\mathbb{R}\) and \(\mathbb{R}\) is a vector space, we can conclude that \(\mathbb{R}_{+}\) is a vector space.
+Since \(\mathbb{R}_{+}\cong\mathbb{R}\) and \(\mathbb{R}\) is a vector space, we can conclude that \(\mathbb{R}_{+}\) is a vector space.<sup>[citation?]</sup>
 
 ## Miscellaneous
 
