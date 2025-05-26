@@ -1,10 +1,10 @@
 +++
 weight = 3
-title = 'An interesting vector space problem'
+title = 'Proof that the set of strictly positive real numbers is a vector space'
 date = 2024-01-14T07:07:07+01:00
 +++
 
-# An interesting vector space problem with \(\mathbb{R}_{+}\)
+# Proof that \(\mathbb{R}_{+}\) is a vector space
 
 <p align="center"><img alt="screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential" src="/airspace/img/en.wikipedia.org_wiki_Isomorphism.png" /></p>
 
@@ -12,7 +12,7 @@ screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponent
 
 ## Statement
 
-Denote by the set \(\mathbb{R}_{+}\) as the [strictly positive real numbers](https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number).
+Denote by \(\mathbb{R}_{+}\) as the set of [strictly positive real numbers](https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number).
 
 {{< katex display=true >}}
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
