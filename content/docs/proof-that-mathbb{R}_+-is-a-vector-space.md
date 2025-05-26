@@ -57,7 +57,7 @@ Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{
 
 Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{>0}^{1}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{>0}^{1}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
 
-* Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\begin{bmatrix}\frac{1}{\vec{\textbf{u}}}\end{bmatrix}=\begin{bmatrix}\vec{\textbf{u}}^{-1}\end{bmatrix}\), not \(-1\vec{\textbf{u}}\). Note that \(\vec{\textbf{u}}^{-1}\) is equivalent to \(-1\odot\vec{\textbf{u}}\).
+* Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\begin{bmatrix}\frac{1}{u_{1}}\end{bmatrix}=\begin{bmatrix}\left(u_{1}\right)^{-1}\end{bmatrix}\), not \(\begin{bmatrix}-u_{1}\end{bmatrix}\). Note that \(\vec{\textbf{u}}^{-1}\) is equivalent to \(-1\odot\vec{\textbf{u}}\).
 
 ## Proof using isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\)
 
