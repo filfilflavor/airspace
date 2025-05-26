@@ -85,7 +85,7 @@ In the proof of linearity above, be cautious to properly keep track of whether a
 
 Therefore, \(T\) is an isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\). Because an isomorphism exists from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\), the space \(\mathbb{R}_{>0}^{1}\) is isomorphic to \(\mathbb{R}^{1}\) (\(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\)).
 
-> ["Hence, *as far as their vector space properties are concerned*, the spaces V and W are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
+> ["Hence, *as far as their vector space properties are concerned*, the spaces \(V\) and \(W\) are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
 
 Since \(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\) and \(\mathbb{R}^{1}\) is a vector space, we can conclude that \(\mathbb{R}_{>0}^{1}\) is a vector space.<sup>[citation?]</sup>
 
