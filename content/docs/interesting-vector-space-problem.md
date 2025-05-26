@@ -12,10 +12,10 @@ screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponent
 
 ## Statement
 
-Denote by \(\mathbb{R}_{+}\) as the set of [strictly positive real numbers](https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number).
+Denote by \(\mathbb{R}_{+}\) as the set of all vectors with one strictly positive real entry. Denote by \(x\) as the set of all possible entries of a vector in \(\mathbb{R}_{+}\).
 
 {{< katex display=true >}}
-\mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
+\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
 Vector addition in \(\mathbb{R}_{+}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}^{+}\)):
