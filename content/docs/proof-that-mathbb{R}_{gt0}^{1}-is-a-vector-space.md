@@ -67,7 +67,7 @@ To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\ve
 
 \[T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{w}\left(v_{1}\right)\end{bmatrix}\]
 
-\[w^{\log_{w}\left(\vec{\mathbf{u}}\right)}=w^{\log_{w}\left(\vec{\mathbf{v}}\right)}\Rightarrow u_{1}=v_{1}\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{v}}\]
+\[w^{\log_{w}\left(u_{1}\right)}=w^{\log_{w}\left(v_{1}\right)}\Rightarrow u_{1}=v_{1}\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{v}}\]
 
 To prove that \(T\) is onto \(\mathbb{R}^{1}\) (surjective), we can prove that for any \(\vec{\mathbf{x}}\in\mathbb{R}^{1}\), there exists \(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) such that \(T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}\).
 
