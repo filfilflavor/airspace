@@ -42,6 +42,8 @@ To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\ve
 
 To prove that \(T\) is onto (surjective), we can prove that for any \(\vec{\mathbf{x}}\in\mathbb{R}\), there exists \(\vec{\mathbf{u}}\in\mathbb{R}_{+}\) such that \(T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}\).
 
+\[T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\]
+
 To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\).
 
 \[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)+\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
