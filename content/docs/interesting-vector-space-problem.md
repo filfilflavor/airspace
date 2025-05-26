@@ -33,7 +33,7 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 5. Associative law for vector addition
 6. Commutative law for vector addition
 7. Distributive laws for scalar multiplication over vector and scalar addition
-  * Some sources separate this into two different axioms
+* Some sources separate the seventh axiom into two different axioms
 8. Associative law for scalar multiplication
 9. Unity law for scalar multiplication
 
