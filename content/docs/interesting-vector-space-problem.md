@@ -38,6 +38,9 @@ one-to-one (injective)
 
 onto (surjective)
 
+linear. \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}+\vec{\mathbf{v}}\right)\)
+
+
 ## References
 
 https://math.stackexchange.com/questions/1332747/proof-that-mathbbr-is-a-vector-space
