@@ -34,7 +34,7 @@ For any \(\vec{\mathbf{w}}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any
 
 Define the transformation (or function or mapping) \(T\colon\mathbb{R}^{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\). isomorphism
 
-one-to-one (injective)
+To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)\), then \(\vec{\mathbf{u}}=\vec{\mathbf{v}}\).
 
 onto (surjective)
 
