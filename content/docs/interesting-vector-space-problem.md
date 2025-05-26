@@ -6,6 +6,10 @@ date = 2024-01-14T07:07:07+01:00
 
 # An interesting vector space problem with \(\mathbb{R}_{+}\)
 
+<p align="center"><img alt="screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential" src="/airspace/img/en.wikipedia.org_wiki_Isomorphism.png" /></p>
+
+from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential
+
 ## Statement
 
 Denote by the set \(\mathbb{R}_{+}\) as the [strictly positive real numbers](https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number).
