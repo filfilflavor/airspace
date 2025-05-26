@@ -18,13 +18,13 @@ Denote by the set \(\mathbb{R}_{+}\) as the [strictly positive real numbers](htt
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
-Vector addition in \(\mathbb{R}_{+}\) is defined in the following manner (\(\mathbf{u},\mathbf{v}\in\mathbb{R}^{+}\)):
+Vector addition in \(\mathbb{R}_{+}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}^{+}\)):
 
-\[\mathbf{u}\oplus\mathbf{v}=\mathbf{u}\mathbf{v}\]
+\[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=\vec{\mathbf{u}}\vec{\mathbf{v}}\]
 
-Scalar multiplication in \(\mathbb{R}_{+}\) is defined in the following manner (\(\mathbf{u}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
+Scalar multiplication in \(\mathbb{R}_{+}\) is defined in the following manner (\(\vec{\mathbf{u}}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
 
-\[c\odot\mathbf{u}=\mathbf{u}^{c}\]
+\[c\odot\vec{\mathbf{u}}=\vec{\mathbf{u}}^{c}\]
 
 Prove that \(\mathbb{R}_{+}\) is a vector space.
 
@@ -53,7 +53,7 @@ Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{
 
 Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{+}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{+}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
 
-* Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\frac{1}{\vec{\textbf{u}}}=\vec{\textbf{v}}^{-1}\). Note that this is equivalent to \(-1\odot\vec{\textbf{u}}\).
+* Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\frac{1}{\vec{\textbf{u}}}=\vec{\textbf{u}}^{-1}\), not \(-1\vec{\textbf{u}}\). Note that \(\vec{\textbf{u}}^{-1}\) is equivalent to \(-1\odot\vec{\textbf{u}}\).
 
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
