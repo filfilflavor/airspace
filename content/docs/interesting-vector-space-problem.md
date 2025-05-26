@@ -38,7 +38,7 @@ one-to-one (injective)
 
 onto (surjective)
 
-linear. \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}+\vec{\mathbf{v}}\right)\)
+linear. \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}+\vec{\mathbf{v}}\right)\)
 
 
 ## References
