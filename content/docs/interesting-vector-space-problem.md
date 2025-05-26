@@ -43,11 +43,11 @@ A useful reference for these axioms can be found [here](https://www.stat.uchicag
 9. Associative law for scalar multiplication
 10. Unity law for scalar multiplication
 
-I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unless there is a request -- feel free to contact me!)
+I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unless there is a request -- feel free to contact me!).
 
 Axioms 3 and 4 are interesting to consider.
 
-Axiom 3: existence of zero vector : there exists 0  V such that u 0 = u = 0 u for all \(\vec{\textbf{u}}\in\)
+Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in V\) such that \(\vec{\textbf{u}}\oplus0= u = 0 u\) for all \(\vec{\textbf{u}}\in\)
 
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
