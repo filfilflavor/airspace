@@ -65,7 +65,7 @@ Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{>0}^{1}\
 
 To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)\), then \(\vec{\mathbf{u}}=\vec{\mathbf{v}}\).
 
-\[T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{w}\left(v_{1}\right)\end{bmatrix}\right)\]
+\[T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{w}\left(v_{1}\right)\end{bmatrix}\]
 
 \[\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)}=\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)}\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{v}}\]
 
