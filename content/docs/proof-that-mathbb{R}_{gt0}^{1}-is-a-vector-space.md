@@ -89,7 +89,7 @@ Since \(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\) and \(\mathbb{R}^{1}\) is a vec
 
 \[c\odot\vec{\mathbf{u}}=\begin{bmatrix}\left(u_{1}\right)^{c}\end{bmatrix}\Rightarrow c=\log_{u_{1}}\left(\left(c\odot\vec{\mathbf{u}}\right)_{1}\right)\]
 
-For any \(\vec{\mathbf{w}}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\vec{\mathbf{x}}\in\mathbb{R}_{>0}^{1}\), we can find a scalar \(c\) such that \(c\odot\vec{\mathbf{w}}=\vec{\mathbf{x}}\). Therefore, \(c\odot\vec{\mathbf{w}}\) spans \(\mathbb{R}_{>0}^{1}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
+For any \(\vec{\mathbf{w}}\) such that \(w_{1}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\vec{\mathbf{x}}\in\mathbb{R}_{>0}^{1}\), we can find a scalar \(c\) such that \(c\odot\vec{\mathbf{w}}=\vec{\mathbf{x}}\). Therefore, \(c\odot\vec{\mathbf{w}}\) spans \(\mathbb{R}_{>0}^{1}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
 
 ## References
 
