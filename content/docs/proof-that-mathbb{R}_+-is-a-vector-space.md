@@ -18,15 +18,15 @@ Denote by \(\mathbb{R}_{>0}^{1}\) as the set of all vectors with one strictly po
 \mathbb{R}_{>0}^{1}=\left\{\begin{bmatrix}x\end{bmatrix}\in\mathbb{R}^{1}\mid x\in\mathbb{R}\land x>0\right\}
 {{< /katex >}}
 
-Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}^{+}\)):
+Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}_{>0}^{1}\)):
 
 \[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=\vec{\mathbf{u}}\vec{\mathbf{v}}\]
 
-Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
+Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) and \(c\in\mathbb{R}\)):
 
 \[c\odot\vec{\mathbf{u}}=\vec{\mathbf{u}}^{c}\]
 
-Prove that \(\mathbb{R}_{+}\) is a vector space.
+Prove that \(\mathbb{R}_{>0}^{1}\) is a vector space.
 
 ## Proof using axioms
 
@@ -47,17 +47,17 @@ I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unl
 
 Axioms 3 and 4 are interesting to consider.
 
-Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{R}_{+}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{0}}=\vec{\textbf{u}}=\vec{\textbf{0}}\oplus\vec{\textbf{u}}\) for all \(\vec{\textbf{u}}\in\mathbb{R}_{+}\)
+Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{R}_{>0}^{1}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{0}}=\vec{\textbf{u}}=\vec{\textbf{0}}\oplus\vec{\textbf{u}}\) for all \(\vec{\textbf{u}}\in\mathbb{R}_{>0}^{1}\)
 
 * The important realization here is that \(\vec{\textbf{0}}\) is \(1\), not \(0\).
 
-Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{+}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{+}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
+Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{>0}^{1}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{>0}^{1}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
 
 * Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\frac{1}{\vec{\textbf{u}}}=\vec{\textbf{u}}^{-1}\), not \(-1\vec{\textbf{u}}\). Note that \(\vec{\textbf{u}}^{-1}\) is equivalent to \(-1\odot\vec{\textbf{u}}\).
 
-## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
+## Proof using isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}\)
 
-Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\) where \(\vec{\mathbf{w}}\) is an arbitrary vector that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\log_{e}\left(\vec{\mathbf{u}}\right)=\ln\left(\vec{\mathbf{u}}\right)\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}\) (surjective), and linear.
+Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{>0}^{1}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\) where \(\vec{\mathbf{w}}\) is an arbitrary vector that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\log_{e}\left(\vec{\mathbf{u}}\right)=\ln\left(\vec{\mathbf{u}}\right)\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}\) (surjective), and linear.
 
 To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)\), then \(\vec{\mathbf{u}}=\vec{\mathbf{v}}\).
 
@@ -65,7 +65,7 @@ To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\ve
 
 \[\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)}=\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)}\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{v}}\]
 
-To prove that \(T\) is onto \(\mathbb{R}\) (surjective), we can prove that for any \(\vec{\mathbf{x}}\in\mathbb{R}\), there exists \(\vec{\mathbf{u}}\in\mathbb{R}_{+}\) such that \(T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}\).
+To prove that \(T\) is onto \(\mathbb{R}\) (surjective), we can prove that for any \(\vec{\mathbf{x}}\in\mathbb{R}\), there exists \(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) such that \(T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}\).
 
 \[T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{w}}^{\vec{\mathbf{x}}}\]
 
@@ -75,17 +75,17 @@ To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus
 
 \[T\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}^{c}\right)=c\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\]
 
-Therefore, \(T\) is an isomorphism from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\). Because an isomorphism exists from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\), the space \(\mathbb{R}^{+}\) is isomorphic to \(\mathbb{R}\) (\(\mathbb{R}_{+}\cong\mathbb{R}\)).
+Therefore, \(T\) is an isomorphism from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\). Because an isomorphism exists from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\), the space \(\mathbb{R}^{+}\) is isomorphic to \(\mathbb{R}\) (\(\mathbb{R}_{>0}^{1}\cong\mathbb{R}\)).
 
 > ["Hence, *as far as their vector space properties are concerned*, the spaces V and W are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
 
-Since \(\mathbb{R}_{+}\cong\mathbb{R}\) and \(\mathbb{R}\) is a vector space, we can conclude that \(\mathbb{R}_{+}\) is a vector space.<sup>[citation?]</sup>
+Since \(\mathbb{R}_{>0}^{1}\cong\mathbb{R}\) and \(\mathbb{R}\) is a vector space, we can conclude that \(\mathbb{R}_{>0}^{1}\) is a vector space.<sup>[citation?]</sup>
 
 ## Miscellaneous
 
 \[c\odot\vec{\mathbf{u}}=\vec{\mathbf{u}}^{c}\Rightarrow c=\log_{\vec{\mathbf{u}}}\left(c\odot\vec{\mathbf{u}}\right)\]
 
-For any \(\vec{\mathbf{w}}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\vec{\mathbf{x}}\in\mathbb{R}_{+}\), we can find a scalar \(c\) such that \(c\odot\vec{\mathbf{w}}=\vec{\mathbf{x}}\). Therefore, \(c\odot\vec{\mathbf{w}}\) spans \(\mathbb{R}_{+}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
+For any \(\vec{\mathbf{w}}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\vec{\mathbf{x}}\in\mathbb{R}_{>0}^{1}\), we can find a scalar \(c\) such that \(c\odot\vec{\mathbf{w}}=\vec{\mathbf{x}}\). Therefore, \(c\odot\vec{\mathbf{w}}\) spans \(\mathbb{R}_{>0}^{1}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
 
 ## References
 
