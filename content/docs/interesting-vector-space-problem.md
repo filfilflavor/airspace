@@ -37,7 +37,7 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 8. Associative law for scalar multiplication
 9. Unity law for scalar multiplication
 
-## Proof using isomorphism between \(\mathbb{R}_{+}\) and \(\mathbb{R}\)
+## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
 Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\) where \(\vec{\mathbf{w}}\) is an arbitrary vector that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\log_{e}\left(\vec{\mathbf{u}}\right)=\ln\left(\vec{\mathbf{u}}\right)\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}\) (surjective), and linear.
 
