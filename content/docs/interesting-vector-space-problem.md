@@ -38,10 +38,12 @@ A useful reference for these axioms can be found [here](https://www.stat.uchicag
 4. Existence of negative vector
 5. Associative law for vector addition
 6. Commutative law for vector addition
-7. Distributive laws for scalar multiplication over vector and scalar addition
-* Some sources separate the seventh axiom into two different axioms
-8. Associative law for scalar multiplication
-9. Unity law for scalar multiplication
+7. Distributive law for scalar multiplication over vector addition
+8. Distributive law for scalar multiplication over scalar addition
+9. Associative law for scalar multiplication
+10. Unity law for scalar multiplication
+
+The interesting 
 
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
