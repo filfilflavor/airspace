@@ -47,7 +47,7 @@ A useful reference for these axioms can be found [here](https://www.stat.uchicag
 9. Associative law for scalar multiplication
 10. Unity law for scalar multiplication
 
-I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unless there is a request -- feel free to contact me!).
+I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unless there is a request -- [feel free to contact me!](https://filfilflavor.github.io)).
 
 Axioms 3 and 4 are interesting to consider.
 
@@ -59,12 +59,12 @@ Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{
 
 * Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\begin{bmatrix}\frac{1}{u_{1}}\end{bmatrix}=\begin{bmatrix}\left(u_{1}\right)^{-1}\end{bmatrix}\), not \(\begin{bmatrix}-u_{1}\end{bmatrix}\). Note that \(\begin{bmatrix}\left(u_{1}\right)^{-1}\end{bmatrix}\) is equivalent to \(-1\odot\vec{\textbf{u}}\).
 
-## Proof using isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\)<sup>needs revision</sup>
+## Proof using isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\)<sup>[needs revision]</sup>
 
 {{% hint warning %}}
 **Caution**
 
-This section may not be completely accurate and needs revision. Refer to https://math.stackexchange.com/questions/5070460/true-or-false-a-space-that-is-isomorphic-to-a-vector-space-must-also-be-a-vecto. Feel free to get in touch.
+This section may not be completely accurate and needs revision. Refer to https://math.stackexchange.com/questions/5070460/true-or-false-a-space-that-is-isomorphic-to-a-vector-space-must-also-be-a-vecto. [Feel free to contact me](https://filfilflavor.github.io) if you are interested in improving this section.
 {{% /hint %}}
 
 Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{>0}^{1}\to\mathbb{R}^{1}\) as \(T\left(\vec{\mathbf{u}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}\) where \(w\) is an arbitrary strictly positive real number that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\begin{bmatrix}\log_{e}\left(u_{1}\right)\end{bmatrix}=\begin{bmatrix}\ln\left(u_{1}\right)\end{bmatrix}\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}^{1}\) (surjective), and linear.
@@ -95,7 +95,7 @@ Therefore, \(T\) is an isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R
 
 > ["Hence, *as far as their vector space properties are concerned*, the spaces \(V\) and \(W\) are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
 
-Since \(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\) and \(\mathbb{R}^{1}\) is a vector space, we can conclude that \(\mathbb{R}_{>0}^{1}\) is a vector space.<sup>[citation?]</sup>
+Since \(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\) and \(\mathbb{R}^{1}\) is a vector space, we can conclude that \(\mathbb{R}_{>0}^{1}\) is a vector space.<sup>[needs revision]</sup>
 
 ## Miscellaneous
 
