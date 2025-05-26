@@ -32,13 +32,13 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 For any \(\vec{\mathbf{w}}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\vec{\mathbf{x}}\in\mathbb{R}_{+}\), we can find a scalar \(c\) such that \(c\odot\vec{\mathbf{w}}=\vec{\mathbf{x}}\). Therefore, \(c\odot\vec{\mathbf{w}}\) spans \(\mathbb{R}_{+}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
 
-Define the map \(T\colon\mathbb{R}^{+}\to\mathbb{R}\) by \(T\left(\vec{\mathbf{u}}\right)=\log_{e}\left(\vec{\mathbf{u}}\right)=\ln\left(\vec{\mathbf{u}}\right)\). isomorphism
+Define the map \(T\colon\mathbb{R}^{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\). isomorphism
 
 one-to-one (injective)
 
 onto (surjective)
 
-linear. \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\vec{\mathbf{v}}\right)\)
+linear. \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\vec{\mathbf{v}}\right)\)
 
 ## References
 
