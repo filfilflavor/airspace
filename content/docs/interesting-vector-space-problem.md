@@ -38,7 +38,7 @@ To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\ve
 
 \[T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)\]
 
-\[\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)}=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)=\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)}\Rightarrow\]
+\[\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)}=\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)}\Rightarrow\]
 
 onto (surjective)
 
