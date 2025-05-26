@@ -79,7 +79,7 @@ To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus
 
 \[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}+\begin{bmatrix}\log_{w}\left(v_{1}\right)\end{bmatrix}=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
 
-\[T\left(c\odot\vec{\mathbf{u}}\right)=\log_{w}\left(\left(c\odot\vec{\mathbf{u}}\right)_{1}\right)=\log_{w}\left(\left(u_{1}\right)^{c}\right)=c\log_{w}\left(\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\]
+\[T\left(c\odot\vec{\mathbf{u}}\right)=\begin{bmatrix}\log_{w}\left(\left(c\odot\vec{\mathbf{u}}\right)_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{w}\left(\left(u_{1}\right)^{c}\right)\end{bmatrix}=\begin{bmatrix}c\log_{w}\left(\vec{\mathbf{u}}\right)\end{bmatrix}=cT\left(\vec{\mathbf{u}}\right)\]
 
 In the proof of linearity above, be cautious to properly keep track of whether a vector is in \(\mathbb{R}_{>0}^{1}\) or \(\mathbb{R}^{1}\).
 
