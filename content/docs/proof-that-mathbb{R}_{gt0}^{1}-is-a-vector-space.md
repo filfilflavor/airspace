@@ -61,8 +61,10 @@ Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{
 
 ## Proof using isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\)
 
+{{% hint warning %}}
 !!! warning Title
     This needs revision. See https://math.stackexchange.com/questions/5070460/true-or-false-a-space-that-is-isomorphic-to-a-vector-space-must-also-be-a-vecto
+{{% /hint %}}
 
 Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{>0}^{1}\to\mathbb{R}^{1}\) as \(T\left(\vec{\mathbf{u}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}\) where \(w\) is an arbitrary strictly positive real number that is an element of \(\left(0,1\right)\cup\left(1,\infty\right)\). For example, it can be said without loss of generality that \(T\left(\vec{\mathbf{u}}\right)=\begin{bmatrix}\log_{e}\left(u_{1}\right)\end{bmatrix}=\begin{bmatrix}\ln\left(u_{1}\right)\end{bmatrix}\). To prove that \(T\) is an isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\), we can prove that \(T\) is one-to-one (injective), onto \(\mathbb{R}^{1}\) (surjective), and linear.
 
