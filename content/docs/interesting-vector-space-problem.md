@@ -51,7 +51,7 @@ Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{
 
 \(\vec{\textbf{0}}\) is \(1\), not \(0\).
 
-Axiom 4 (*Existence of negative vector*): for each \(u\in\mathbb{R}_{+}\), there exists \(v\in\mathbb{R}_{+}\) such that \(u\oplus v=\(\vec{\textbf{0}}\)=v\oplus u\)
+Axiom 4 (*existence of negative vector*): for each \(u\in\mathbb{R}_{+}\), there exists \(v\in\mathbb{R}_{+}\) such that \(u\oplus v=\(\vec{\textbf{0}}\)=v\oplus u\)
 
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
