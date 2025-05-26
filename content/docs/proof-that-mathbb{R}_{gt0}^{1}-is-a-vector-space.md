@@ -81,9 +81,9 @@ To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus
 
 \[T\left(c\odot\vec{\mathbf{u}}\right)=\log_{w}\left(\left(c\odot\vec{\mathbf{u}}\right)_{1}\right)=\log_{w}\left(\vec{\mathbf{u}}^{c}\right)=c\log_{w}\left(\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\]
 
-In the proof of linearity above, be cautious to properly keep track of whether a vector is in \(\mathbb{R}^{+}\) or \(\mathbb{R}\).
+In the proof of linearity above, be cautious to properly keep track of whether a vector is in \(\mathbb{R}_{>0}^{1}\) or \(\mathbb{R}\).
 
-Therefore, \(T\) is an isomorphism from \(\mathbb{R}^{+}\) onto \(\mathbb{R}^{1}\). Because an isomorphism exists from \(\mathbb{R}^{+}\) onto \(\mathbb{R}\), the space \(\mathbb{R}^{+}\) is isomorphic to \(\mathbb{R}^{1}\) (\(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\)).
+Therefore, \(T\) is an isomorphism from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}^{1}\). Because an isomorphism exists from \(\mathbb{R}_{>0}^{1}\) onto \(\mathbb{R}\), the space \(\mathbb{R}_{>0}^{1}\) is isomorphic to \(\mathbb{R}^{1}\) (\(\mathbb{R}_{>0}^{1}\cong\mathbb{R}^{1}\)).
 
 > ["Hence, *as far as their vector space properties are concerned*, the spaces V and W are identical except for notation. Because addition and scalar multiplication in either space are completely determined by the same operations in the other space, all *vector space* properties of either space are completely determined by those of the other."](https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf)
 
