@@ -53,7 +53,7 @@ Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{
 
 Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{+}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{+}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
 
-* Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\frac{1}{}\). Note that this is equivalent to \(-1\odot\vec{\textbf{u}}\).
+* Based on what we noted about \(\vec{\textbf{0}}\) in axiom 3, the important realization here is that \(\vec{\textbf{v}}\) is \(\frac{1}{\vec{\textbf{u}}}=\vec{\textbf{v}}^{-1}\). Note that this is equivalent to \(-1\odot\vec{\textbf{u}}\).
 
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
