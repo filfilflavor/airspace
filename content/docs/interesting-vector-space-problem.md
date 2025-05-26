@@ -32,7 +32,7 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 For any \(\vec{\mathbf{w}}\in\left(0,1\right)\cup\left(1,\infty\right)\) and any \(\vec{\mathbf{x}}\in\mathbb{R}_{+}\), we can find a scalar \(c\) such that \(c\odot\vec{\mathbf{w}}=\vec{\mathbf{x}}\). Therefore, \(c\odot\vec{\mathbf{w}}\) spans \(\mathbb{R}_{+}\). Since there is \(1\) basis vector, the dimension of the vector space is \(1\).
 
-Define the transformation (or function or mapping) \(T\colon\mathbb{R}^{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\). isomorphism
+Define the transformation (or function or mapping) \(T\colon\mathbb{R}_{+}\to\mathbb{R}\) as \(T\left(\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\). isomorphism
 
 To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\vec{\mathbf{u}}\right)=T\left(\vec{\mathbf{v}}\right)\), then \(\vec{\mathbf{u}}=\vec{\mathbf{v}}\).
 
@@ -40,7 +40,7 @@ To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\ve
 
 \[\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)}=\vec{\textbf{w}}^{\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)}\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{v}}\]
 
-onto (surjective)
+To prove that \(T\) is onto (surjective), we can prove that for any \(\vec{\mathbf{x}}\in\mathbb{R}\), there exists \(\vec{\mathbf{u}}\in\mathbb{R}_{+}\)
 
 To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\).
 
