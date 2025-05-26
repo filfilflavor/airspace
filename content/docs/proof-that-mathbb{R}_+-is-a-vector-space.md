@@ -20,7 +20,9 @@ Denote by \(\mathbb{R}_{>0}^{1}\) as the set of all vectors with one strictly po
 
 Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined as the following (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}_{>0}^{1}\)):
 
-\[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=\vec{\mathbf{u}}\vec{\mathbf{v}}\]
+\[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=u_{1}v_{1}\]
+
+Meaning, the first (and only) entry of \vec{\mathbf{u}} multiplied by the first (and only) entry of \vec{\mathbf{v}}.
 
 Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined as the following (\(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) and \(c\in\mathbb{R}\)):
 
