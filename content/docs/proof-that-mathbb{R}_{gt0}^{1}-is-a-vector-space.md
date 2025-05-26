@@ -75,7 +75,7 @@ To prove that \(T\) is onto \(\mathbb{R}^{1}\) (surjective), we can prove that f
 
 To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\) and that \(T\left(c\odot\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\) for all scalars \(c\in\mathbb{R}\).
 
-\[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)_{1}\right)\end{bmatrix}=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)+\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
+\[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{\vec{\textbf{w}}}\left(u_{1}v_{1}\right)\end{bmatrix}=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)+\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
 
 \[T\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}^{c}\right)=c\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\]
 
