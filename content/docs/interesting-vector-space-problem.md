@@ -44,7 +44,7 @@ To prove that \(T\) is onto \(\mathbb{R}\) (surjective), we can prove that for a
 
 \[T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}\right)\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{w}}^{\vec{\mathbf{x}}}\]
 
-To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\) and that \(T\left(c\vec{\mathbf{u}}\right)\)=cT\left(\vec{\mathbf{u}}\right).
+To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\) and that \(T\left(c\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\).
 
 \[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)+\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
 
