@@ -77,7 +77,7 @@ To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus
 
 \[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{w}\left(u_{1}v_{1}\right)\end{bmatrix}=\begin{bmatrix}\log_{w}\left(u_{1}\right)+\log_{w}\left(v_{1}\right)\end{bmatrix}\]
 
-\[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)+\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
+\[T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}+\begin{bmatrix}\log_{w}\left(v_{1}\right)\end{bmatrix}=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\]
 
 \[T\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(c\odot\vec{\mathbf{u}}\right)=\log_{\vec{\mathbf{w}}}\left(\vec{\mathbf{u}}^{c}\right)=c\log_{\vec{\textbf{w}}}\left(\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\]
 
