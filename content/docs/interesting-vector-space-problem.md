@@ -8,7 +8,7 @@ date = 2024-01-14T07:07:07+01:00
 
 <p align="center"><img alt="screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential" src="/airspace/img/en.wikipedia.org_wiki_Isomorphism.png" /></p>
 
-from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential
+screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential
 
 ## Statement
 
