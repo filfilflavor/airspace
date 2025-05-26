@@ -15,6 +15,10 @@ screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponent
 Denote by \(\mathbb{R}_{+}\) as the set of all vectors with one strictly positive real entry.
 
 {{< katex display=true >}}
+\mathbb{R}_{>0}^{1}=\left\{\begin{bmatrix}x\end{bmatrix}\in\mathbb{R}^{1}\mid x\in\mathbb{R}\land x>0\right\}
+{{< /katex >}}
+
+{{< katex display=true >}}
 \mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
 {{< /katex >}}
 
