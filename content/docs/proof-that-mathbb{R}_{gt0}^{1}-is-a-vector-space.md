@@ -71,7 +71,7 @@ To prove that \(T\) is one-to-one (injective), we can prove that if \(T\left(\ve
 
 To prove that \(T\) is onto \(\mathbb{R}^{1}\) (surjective), we can prove that for any \(\vec{\mathbf{x}}\in\mathbb{R}^{1}\), there exists \(\vec{\mathbf{u}}\in\mathbb{R}_{>0}^{1}\) such that \(T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}\).
 
-\[T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}=\begin{bmatrix}x_{1}\end{bmatrix}=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}\Rightarrow\vec{\mathbf{u}}=\vec{\mathbf{w}}^{\vec{\mathbf{x}}}\]
+\[T\left(\vec{\mathbf{u}}\right)=\vec{\mathbf{x}}=\begin{bmatrix}x_{1}\end{bmatrix}=\begin{bmatrix}\log_{w}\left(u_{1}\right)\end{bmatrix}\Rightarrow\vec{\mathbf{u}}=\begin{bmatrix}w^{x_{1}}\end{bmatrix}\]
 
 To prove that \(T\) is linear, we can prove that \(T\left(\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}\right)=T\left(\vec{\mathbf{u}}\right)+T\left(\vec{\mathbf{v}}\right)\) and that \(T\left(c\odot\vec{\mathbf{u}}\right)=cT\left(\vec{\mathbf{u}}\right)\) for all scalars \(c\in\mathbb{R}\).
 
