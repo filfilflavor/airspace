@@ -1,6 +1,6 @@
 +++
 weight = 3
-title = 'Proof that the set of strictly positive real numbers is a vector space'
+title = 'Proof that the set of all vectors with one strictly positive real entry is a vector space'
 date = 2024-01-14T07:07:07+01:00
 +++
 
