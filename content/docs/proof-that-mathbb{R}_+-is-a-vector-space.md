@@ -103,6 +103,6 @@ http://matematika.reseneulohy.cz/2504/the-space-of-positive-real-numbers
 
 https://proofwiki.org/wiki/Definition:Strictly_Positive/Real_Number
 
-https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdfa
+https://math.emory.edu/~lchen41/teaching/2020_Fall/Section_7-3.pdf
 
 David Clark Lay, Steven Ramer Lay, Judith Joanne McDonald. *Linear Algebra and Its Applications*. Pearson. 5th edition, 2016. ISBN-13 9780321982384. ISBN-10 032198238X.
