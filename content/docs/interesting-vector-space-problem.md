@@ -26,6 +26,16 @@ Prove that \(\mathbb{R}_{+}\) is a vector space.
 
 ## Proof using axioms
 
+1. Closure under vector addition
+2. Closure under scalar multiplication
+3. Existence of zero vector
+4. Existence of negative vector
+5. Associative law for vector addition
+6. Commutative law for vector addition
+7. Distributive laws for scalar multiplication over vector and scalar addition
+8. Associative law for scalar multiplication
+9. Unity law for scalar multiplication
+
 ## Proof using isomorphism between \(\mathbb{R}_{+}\) and \(\mathbb{R}\)
 
 \[c=\log_{\mathbf{u}}\left(c\odot\mathbf{u}\right)\]
