@@ -4,7 +4,7 @@ title = 'Proof that the set of all vectors with one strictly positive real entry
 date = 2024-01-14T07:07:07+01:00
 +++
 
-# Proof that \(\mathbb{R}_{+}\) is a vector space
+# Proof that \(\mathbb{R}_{>0}^{1}\) is a vector space
 
 <p align="center"><img alt="screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponential" src="/airspace/img/en.wikipedia.org_wiki_Isomorphism.png" /></p>
 
@@ -12,21 +12,17 @@ screenshot from https://en.wikipedia.org/wiki/Isomorphism#Logarithm_and_exponent
 
 ## Statement
 
-Denote by \(\mathbb{R}_{+}\) as the set of all vectors with one strictly positive real entry.
+Denote by \(\mathbb{R}_{>0}^{1}\) as the set of all vectors with one strictly positive real entry.
 
 {{< katex display=true >}}
 \mathbb{R}_{>0}^{1}=\left\{\begin{bmatrix}x\end{bmatrix}\in\mathbb{R}^{1}\mid x\in\mathbb{R}\land x>0\right\}
 {{< /katex >}}
 
-{{< katex display=true >}}
-\mathbb{R}_{+}=\left\{x\in\mathbb{R}\mid x>0\right\}
-{{< /katex >}}
-
-Vector addition in \(\mathbb{R}_{+}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}^{+}\)):
+Vector addition in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}},\vec{\mathbf{v}}\in\mathbb{R}^{+}\)):
 
 \[\vec{\mathbf{u}}\oplus\vec{\mathbf{v}}=\vec{\mathbf{u}}\vec{\mathbf{v}}\]
 
-Scalar multiplication in \(\mathbb{R}_{+}\) is defined in the following manner (\(\vec{\mathbf{u}}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
+Scalar multiplication in \(\mathbb{R}_{>0}^{1}\) is defined in the following manner (\(\vec{\mathbf{u}}\in\mathbb{R}^{+}\) and \(c\in\mathbb{R}\)):
 
 \[c\odot\vec{\mathbf{u}}=\vec{\mathbf{u}}^{c}\]
 
