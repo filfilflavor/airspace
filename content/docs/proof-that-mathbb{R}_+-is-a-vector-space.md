@@ -49,7 +49,7 @@ Axioms 3 and 4 are interesting to consider.
 
 Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in\mathbb{R}_{>0}^{1}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{0}}=\vec{\textbf{u}}=\vec{\textbf{0}}\oplus\vec{\textbf{u}}\) for all \(\vec{\textbf{u}}\in\mathbb{R}_{>0}^{1}\)
 
-* The important realization here is that \(\vec{\textbf{0}}\) is \(\left\{\begin{bmatrix}1\end{bmatrix}\), not \(\left\{\begin{bmatrix}0\end{bmatrix}\).
+* The important realization here is that \(\vec{\textbf{0}}\) is \(\begin{bmatrix}1\end{bmatrix}\), not \(\begin{bmatrix}0\end{bmatrix}\).
 
 Axiom 4 (*existence of negative vector*): for each \(\vec{\textbf{u}}\in\mathbb{R}_{>0}^{1}\), there exists \(\vec{\textbf{v}}\in\mathbb{R}_{>0}^{1}\) such that \(\vec{\textbf{u}}\oplus\vec{\textbf{v}}=\vec{\textbf{0}}=\vec{\textbf{v}}\oplus\vec{\textbf{u}}\)
 
