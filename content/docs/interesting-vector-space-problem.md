@@ -47,7 +47,7 @@ I'll leave axioms 1, 2, 5, 6, 7, 8, 9, and 10 as an exercise for the reader (unl
 
 Axioms 3 and 4 are interesting to consider.
 
-Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in V\) such that \(\vec{\textbf{u}}\oplus0= u = 0 u\) for all \(\vec{\textbf{u}}\in\)
+Axiom 3 (*existence of zero vector*): there exists \(\vec{\textbf{0}}\in V\) such that \(\vec{\textbf{u}}\oplus0=\vec{\textbf{u}}=0\plus\vec{\textbf{u}}\) for all \(\vec{\textbf{u}}\in V\)
 
 ## Proof using isomorphism from \(\mathbb{R}_{+}\) onto \(\mathbb{R}\)
 
