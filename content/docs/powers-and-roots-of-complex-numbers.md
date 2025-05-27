@@ -42,7 +42,7 @@ If \(n\) is an integer, then we can reduce this to
 
 \[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2\pi k}{n}}\mid k\in\left\{0,1,2,\dots,\left|n\right|-1\right\}\right\}\]
 
-Not realizing this, many people omit the addend \(i\frac{2\pi k}{n}\) in the exponent of \(e\) and simply state that \(x=e^{i\frac{\theta}{n}}\). While \(e^{i\frac{\theta}{n}}\) is a possible solution for \(x\) (simply set \(k\) to \(0\)), it does not include all possible solutions for \(x\).
+Not realizing this, many people omit the addend \(i\frac{2\pi k}{n}\) in the exponent of \(e\) and simply state that \(x=e^{i\frac{\theta}{n}}\). While \(e^{i\frac{\theta}{n}}\) is a possible solution for \(x\) (we can obtain this principal root from the above formula by simply setting \(k\) to \(0\)), it does not include all possible solutions for \(x\).
 
 ## Proof
 
