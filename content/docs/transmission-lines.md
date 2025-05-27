@@ -73,8 +73,8 @@ Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x
 
 \[
 \begin{split}
-\left|\tilde{V}\left(d\right)\right|&=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta d-\theta_r\right)\right)^{\frac{1}{2}}\\
-&=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta d-\theta_r\right)}
+\left|\tilde{V}\left(d\right)\right|&=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)}
 \end{split}
 \]
 
