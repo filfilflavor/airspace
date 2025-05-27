@@ -6,9 +6,9 @@ date = 2024-01-14T07:07:07+01:00
 
 # A few transmission line equations
 
-<p align="center"><img alt="Figure 8.9: Transmission line of length l connected on one end to a generator circuit and on the other end to a load ZL. The load is located at z=0 and the generator terminals are at z=l." src="/airspace/img/f2.09.png" /></p>
+<p align="center"><img alt="Figure 8.9: Transmission line of length l connected on one end to a generator circuit and on the other end to a load Z_L. The load is located at z=0 and the generator terminals are at z=l." src="/airspace/img/f2.09.png" /></p>
 
-Figure 8.9: Transmission line of length *l* connected on one end to a generator circuit and on the other end to a load Z<sub>L</sub>. The load is located at *z*=0 and the generator terminals are at *z*=*l*.
+Figure 8.9: Transmission line of length \(l\) connected on one end to a generator circuit and on the other end to a load \(Z_{L}\). The load is located at \(z=0\) and the generator terminals are at \(z=l\).
 
 source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umich.edu/figs/figs8.html)
 
