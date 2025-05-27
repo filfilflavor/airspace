@@ -16,7 +16,7 @@ Denote by \(z\) a complex number with modulus \(r\) and argument \(\theta\) (\(z
 
 ### Powers
 
-If \(x^{\frac{1}{n}}=z\) where \(n\in\mathbb{R}\), what are all possible solutions for \(x\)?
+If \(x^{\frac{1}{n}}=z\) where \(n\in\mathbb{R}\) and \(n\ne0\), what are all possible solutions for \(x\)?
 
 In general, we can represent all possible solutions for \(x\) as
 
