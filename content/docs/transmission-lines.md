@@ -22,6 +22,10 @@ where \(\gamma\) is the complex propagation constant of the transmission line, \
 
 In a lossless transmission line, \(\alpha=0\) and \(\gamma=j\beta\).
 
+Spatial position \(z=-l\) corresponds to the sending end (generator terminals) and spatial position \(z=0\) corresponds to the location of the load. Coordinate \(d\) is defined as \(d=-z\) and denotes distance from the load.
+
+\(\left(V_{0}^{+},I_{0}^{+}\right)\) are the wave amplitudes of the \(+z\) propagating wave and \(\left(V_{0}^{-},I_{0}^{-}\right)\) are the wave amplitudes of the \(-z\) propagating wave. The reflection coefficient \(\Gamma\) is \(\frac{V_{0}^{-}}{V_{0}^{+}}=-\frac{I_{0}^{-}}{I_{0}^{+}}\).
+
 The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
 \[\begin{split}
@@ -29,11 +33,7 @@ The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 &=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
-\(\left(V_{0}^{+},I_{0}^{+}\right)\) are the wave amplitudes of the \(+z\) propagating wave and \(\left(V_{0}^{-},I_{0}^{-}\right)\) are the wave amplitudes of the \(-z\) propagating wave. The reflection coefficient \(\Gamma\) is \(\frac{V_{0}^{-}}{V_{0}^{+}}=-\frac{I_{0}^{-}}{I_{0}^{+}}\).
-
 The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
-
-Note that spatial position \(z=-l\) corresponds to the sending end (generator terminals) and spatial position \(z=0\) corresponds to the location of the load. Coordinate \(d\) is defined as \(d=-z\) and denotes distance from the load.
 
 ### Magnitude of voltage and current phasors
 
