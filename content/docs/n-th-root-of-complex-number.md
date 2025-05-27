@@ -21,7 +21,7 @@ If \(x^{\frac{1}{n}}=z\) where \(n\in\mathbb{R}\), what are all possible solutio
 In general, we can represent all possible solutions for \(x\) as
 
 {{< katex display=true >}}
-\[x\in\left\{r^{n}e^{i\left(\theta n+2\pi nk\right)}\mid k\in\mathbb{Z}\right\}
+x\in\left\{r^{n}e^{i\left(\theta n+2\pi nk\right)}\mid k\in\mathbb{Z}\right\}
 {{< /katex >}}
 
 If \(n\) is an integer, then we can reduce this to
