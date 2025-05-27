@@ -83,7 +83,7 @@ In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
 &=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
 \end{split}\]
 
-Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
+Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that, for a lossless line,
 
 \[
 \begin{split}
