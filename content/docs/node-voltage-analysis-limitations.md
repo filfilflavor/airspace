@@ -17,7 +17,7 @@ Consider a circuit with a voltage source with voltage \(V\), a current-controlle
 Any attempt to solve for \(I\) must involve some form of the equation
 
 {{< katex display=true >}}
-V+10I=100I
+V+rI=RI
 {{< /katex >}}
 
 But this equation is a result of Kirchhoff's voltage law, not of Kirchhoff's current law. Therefore, node-voltage analysis is not sufficient for this circuit.
