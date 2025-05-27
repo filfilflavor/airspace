@@ -97,7 +97,7 @@ Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x
 &=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)}
 \end{split}\]
 
-Note that the characteristic impedance of a lossless transmission line is real, so \(\left|Z_{0}\right|=Z_{0}\) for a lossless line.
+Note that the characteristic impedance of a lossless transmission line is purely real, so \(\left|Z_{0}\right|=Z_{0}\) for a lossless line.
 
 ## Derivation of the magnitudes of the voltage and current phasors
 
