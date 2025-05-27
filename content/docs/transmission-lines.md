@@ -18,7 +18,7 @@ source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umi
 
 \[\gamma=\alpha+j\beta\]
 
-where \(\gamma\) is the complex propagation constant of the transmission line, \(\alpha\) is the attenutation constant of the line \(\frac{\text{Np}}{\text{m}}\), \(\beta\) is the phase constant of the line \(\frac{\text{rad}}{\text{m}}\).
+where \(\gamma\) is the complex propagation constant of the transmission line, \(\alpha\) is the attenutation constant of the line with units of \(\frac{\text{Np}}{\text{m}}\), \(\beta\) is the phase constant of the line with units of \(\frac{\text{rad}}{\text{m}}\).
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
