@@ -22,7 +22,7 @@ where \(\gamma\) is the complex propagation constant of the transmission line, \
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
-### Magnitude of voltage and current phasors in lossless transmission line
+### Magnitude of voltage and current phasors
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
