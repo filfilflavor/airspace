@@ -12,13 +12,9 @@ image from https://commons.wikimedia.org/wiki/File:Visualisation_complex_number_
 
 ## Statement
 
-\[z=re^{i\theta}\]
+Denote by \(z\) a complex number with modulus \(r\) and argument \(\theta\) (\(z=re^{i\theta}\)). If \(x^{n}=z=re^{i\theta}\), what are all possible solutions for \(x\)?
 
-\[x^{n}=z=re^{i\theta}\]
-
-What are all possible solutions for \(x\)?
-
-In general, all possible solutions to \(x\) are
+In general, we can represent all possible solutions for \(x\) as
 
 \[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2k\pi}{n}}\mid k\in\mathbb{Z}\right\}\]
 
