@@ -8,14 +8,15 @@ date = 2024-01-14T07:07:07+01:00
 
 ## Statement
 
-"Nodal analysis is a **systematic way** of analysing a circuit using KCL or KVL, and it always works."
-
-http://www.ee.ic.ac.uk/pcheung/teaching/de1_ee/Lectures/Lecture%205%20-%20Nodal%20Analysis%20(x1).pdf
-
-This is false. Node-voltage analysis does not always work!
+Many people believe that node-voltage analysis can be used to determine voltages and currents for all circuits that contain only voltage sources, current sources, and resistors. This is false. Node-voltage analysis (where we use Kirchhoff's current law *only*, not [modified nodal analysis](https://en.wikipedia.org/wiki/Modified_nodal_analysis)) does not always work!
 
 ## Proof
 
+Consider the following circuit.
+
+
 ## References
 
-http://www.ee.ic.ac.uk/pcheung/teaching/de1_ee/Lectures/Lecture%205%20-%20Nodal%20Analysis%20(x1).pdf
+https://en.wikipedia.org/wiki/Nodal_analysis
+
+https://en.wikipedia.org/wiki/Modified_nodal_analysis
