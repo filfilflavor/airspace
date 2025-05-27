@@ -39,6 +39,8 @@ Note that spatial position \(z=-l\) corresponds to the sending end (generator te
 \end{split}
 \]
 
+## Derivation
+
 This can be derived using the formula for the voltage phasor in a lossless (\(\gamma=j\beta\)) transmission line \(\tilde{V}\left(z\right)=V_0^+\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)\). The derivation is as follows.
 
 \[\left|\tilde{V}\left(z\right)\right|=\left(\tilde{V}\left(z\right)\tilde{V}^{*}\left(z\right)\right)^{\frac{1}{2}}\]
