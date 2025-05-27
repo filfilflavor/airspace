@@ -12,7 +12,17 @@ Figure 8.9: Transmission line of length \(l\) connected on one end to a generato
 
 source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umich.edu/figs/figs8.html)
 
-## Magnitude of voltage and current phasors in lossless transmission line
+## Equations
+
+### Complex propagation constant and traveling wave solutions of the wave equations
+
+\[\Gamma=\alpha+j\beta\]
+
+where \(\Gamma\) is the complex propagation constant of the transmission line, \(\alpha\) is the attenutation constant of the line \(\frac{\text{Np}}{\text{m}}\), \(\beta\) is the phase constant of the line \(\frac{\text{rad}}{\text{m}}\).
+
+The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
+
+### Magnitude of voltage and current phasors in lossless transmission line
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
