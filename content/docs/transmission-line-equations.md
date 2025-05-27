@@ -57,14 +57,19 @@ The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmissio
 
 {{< katex display=true >}}
 \begin{split}
-\left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
-&=\left|V_0^+\right|\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
+\left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\left|V_0^+\right|\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
 \end{split}
 {{< /katex >}}
 
 Note that some sources refer to \(\angle\Gamma\) as \(\theta_{\mathrm{r}}\), where \(\Gamma=\left|\Gamma\right|e^{j\angle\Gamma}=\left|\Gamma\right|e^{j\theta_{\mathrm{r}}}\).
 
 The magnitude of the current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
+
+\[\begin{split}
+\left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\left|V_0^+\right|\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
+\end{split}\]
 
 In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
 
