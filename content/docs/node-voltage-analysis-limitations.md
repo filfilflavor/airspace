@@ -18,6 +18,8 @@ Any attempt to solve for \(I\) must invoke some form of the equation
 
 \[V+10I=100I\]
 
+But this equation is a result of Kirchhoff's voltage law, not of Kirchhoff's current law. Therefore, node-voltage analysis is not sufficient for this circuit.
+
 ## References
 
 https://en.wikipedia.org/wiki/Nodal_analysis
