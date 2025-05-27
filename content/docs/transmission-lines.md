@@ -18,19 +18,17 @@ The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmissio
 
 {{< katex display=true >}}
 \begin{split}
-\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
+\left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
 &=\left|V_0^+\right|\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
 \end{split}
 {{< /katex >}}
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a *lossless* transmission line is
 
-{{< katex display=true >}}
-\begin{split}
+\[\begin{split}
 \left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
 &=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
-\end{split}
-{{< /katex >}}
+\end{split}\]
 
 Note that spatial position \(z=-l\) corresponds to the sending end (generator terminals) and spatial position \(z=0\) corresponds to the location of the load. Coordinate \(d\) is defined as \(d=-z\) and denotes distance from the load. Since cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
 
