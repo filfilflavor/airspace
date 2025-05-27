@@ -48,7 +48,7 @@ The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 \tilde{I}\left(z\right)&=I_{0}^{+}e^{-\gamma z}+I_{0}^{-}e^{\gamma z}\\
 &=I_0^+\left(e^{-\gamma z}-\Gamma e^{\gamma z}\right)\\
 &=I_0^+\left(e^{-\alpha z-j\beta z}-\Gamma e^{\alpha z+j\beta z}\right)\\
-&=\frac{V_0}{Z_0}^+\left(e^{-\alpha z-j\beta z}-\Gamma e^{\alpha z+j\beta z}\right)
+&=\frac{V_0^+}{Z_0}\left(e^{-\alpha z-j\beta z}-\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
 ### Magnitude of voltage and current phasors
