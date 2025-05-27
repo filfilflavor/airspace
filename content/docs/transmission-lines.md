@@ -20,6 +20,8 @@ source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umi
 
 where \(\gamma\) is the complex propagation constant of the transmission line, \(\alpha\) is the attenutation constant of the line with units of \(\frac{\text{Np}}{\text{m}}\), \(\beta\) is the phase constant of the line with units of \(\frac{\text{rad}}{\text{m}}\).
 
+In a lossless transmission line, \(\alpha=0\) and \(\gamma=j\beta\).
+
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
 ### Magnitude of voltage and current phasors
