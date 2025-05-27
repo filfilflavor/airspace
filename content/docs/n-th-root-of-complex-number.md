@@ -12,19 +12,19 @@ image from https://commons.wikimedia.org/wiki/File:Visualisation_complex_number_
 
 ## Statement
 
-\[z=e^{i\theta}\]
+\[z=re^{i\theta}\]
 
-\[x^{n}=z=e^{i\theta}\]
+\[x^{n}=z=re^{i\theta}\]
 
 What are all possible solutions for \(x\)?
 
 In general, all possible solutions to \(x\) are
 
-\[x\in\left\{e^{i\frac{\theta+2k\pi}{n}}\mid k\in\mathbb{Z}\right\}\]
+\[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2k\pi}{n}}\mid k\in\mathbb{Z}\right\}\]
 
 If \(n\) is an integer, then we can reduce this to
 
-\[x\in\left\{e^{i\frac{\theta+2k\pi}{n}}\mid k\in\left\{0,1,2,\dots,n-1\right\}\right\}\]
+\[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2k\pi}{n}}\mid k\in\left\{0,1,2,\dots,n-1\right\}\right\}\]
 
 {{< katex display=true >}}
 z^{\frac{1}{n}}=\left(e^{i\theta}\right)^{\frac{1}{n}}=e^{i\left(\frac{\theta+2\pi k}{n}\right)}
