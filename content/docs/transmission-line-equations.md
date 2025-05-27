@@ -92,6 +92,11 @@ Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x
 \end{split}
 \]
 
+\[\begin{split}
+\left|\tilde{I}\left(d\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)}
+\end{split}\]
+
 ## Derivation of the magnitudes of the voltage and current phasors
 
 This can be derived using the formula for the voltage phasor in a lossless (\(\gamma=j\beta\)) transmission line \(\tilde{V}\left(z\right)=V_0^+\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)\). The derivation is as follows.
