@@ -38,6 +38,8 @@ The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 &=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
+\[Z_{0}=\frac{V_{0}^{+}}{I_{0}^{+}}=-\frac{V_{0}^{-}}{I_{0}^{-}}\]
+
 The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
 \[\begin{split}
