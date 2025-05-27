@@ -12,6 +12,12 @@ image from https://commons.wikimedia.org/wiki/File:Visualisation_complex_number_
 
 ## Statement
 
+\[z=e^{i\theta}\]
+
+\[x^{n}=z=e^{i\theta}\]
+
+What are all possible solutions for \(x\)?
+
 {{< katex display=true >}}
 z^{\frac{1}{n}}=\left(e^{i\theta}\right)^{\frac{1}{n}}=e^{i\left(\frac{\theta+2\pi k}{n}\right)}
 {{< /katex >}}
