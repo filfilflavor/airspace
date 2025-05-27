@@ -20,7 +20,9 @@ If \(x^{\frac{1}{n}}=z\) where \(n\in\mathbb{R}\), what are all possible solutio
 
 In general, we can represent all possible solutions for \(x\) as
 
-\[x\in\left\{r^{n}e^{i\left(\theta n+2\pi nk\right)}\mid k\in\mathbb{Z}\right\}\]
+{{< katex display=true >}}
+\[x\in\left\{r^{n}e^{i\left(\theta n+2\pi nk\right)}\mid k\in\mathbb{Z}\right\}
+{{< /katex >}}
 
 If \(n\) is an integer, then we can reduce this to
 
@@ -38,11 +40,7 @@ If \(n\) is an integer, then we can reduce this to
 
 \[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2\pi k}{n}}\mid k\in\left\{0,1,2,\dots,n-1\right\}\right\}\]
 
-{{< katex display=true >}}
-z^{\frac{1}{n}}=\left(e^{i\theta}\right)^{\frac{1}{n}}=e^{i\left(\frac{\theta+2\pi k}{n}\right)}
-{{< /katex >}}
-
-where \(k\in\mathbb{Z}\). Not realizing this, many people omit the \(i\frac{2\pi k}{n}\) in the exponent and simply state that \(z^{\frac{1}{n}}=e^{\frac{i\theta}{n}}\). While true (simply set \(k\) to \(0\)), it does not include all possible solutions.
+Not realizing this, many people omit the addend \(i\frac{2\pi k}{n}\) in the exponent and simply state that \(z^{\frac{1}{n}}=e^{\frac{i\theta}{n}}\). While it is a possible solution (simply set \(k\) to \(0\)), it does not include all possible solutions.
 
 ## Proof
 
