@@ -14,6 +14,15 @@ source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umi
 
 ## Magnitude of voltage and current phasors in lossless transmission line
 
+The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
+
+{{< katex display=true >}}
+\begin{split}
+\left|\tilde{V}\left(z\right)\right|=\left|V_0^+\right|\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
+&=\left|V_0^+\right|\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
+\end{split}
+{{< /katex >}}
+
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a *lossless* transmission line is
 
 {{< katex display=true >}}
