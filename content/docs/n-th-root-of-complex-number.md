@@ -6,6 +6,8 @@ date = 2024-01-14T07:07:07+01:00
 
 # \(n\)<sup>th</sup> root of a complex number
 
+<p align="center"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Visualisation_complex_number_roots.svg" /></p>
+
 ## Statement
 
 {{< katex display=true >}}
