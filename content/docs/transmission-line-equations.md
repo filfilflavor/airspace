@@ -79,8 +79,8 @@ In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
 \end{split}\]
 
 \[\begin{split}
-\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
-&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
+\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
 \end{split}\]
 
 Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
@@ -96,6 +96,8 @@ Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x
 \left|\tilde{I}\left(d\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)\right)^{\frac{1}{2}}\\
 &=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)}
 \end{split}\]
+
+Note that the characteristic impedance of a lossless transmission line is real, so \(\left|Z_{0}\right|=Z_{0}\).
 
 ## Derivation of the magnitudes of the voltage and current phasors
 
