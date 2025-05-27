@@ -25,8 +25,8 @@ In a lossless transmission line, \(\alpha=0\) and \(\gamma=j\beta\).
 The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
 \[\begin{split}
-\tilde{V}\left(z\right)&=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)\\
-&=\tilde{V}\left(z\right)=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)
+\tilde{V}\left(z\right)&=V_0^+\left(e^{-\gamma z}+\Gamma e^{\gamma z}\right)\\
+&=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
 The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
