@@ -18,17 +18,17 @@ If \(x^{\frac{1}{n}}=z\) where \(n\in\mathbb{R}\), what are all possible solutio
 
 In general, we can represent all possible solutions for \(x\) as
 
-\[x\in\left\{r^{n}e^{i\left(\theta n+2k\pi n\right)}\mid k\in\mathbb{Z}\right\}\]
+\[x\in\left\{r^{n}e^{i\left(\theta n+2\pi nk\right)}\mid k\in\mathbb{Z}\right\}\]
 
 If \(x^{n}=z\) where \(n\in\mathbb{R}\), what are all possible solutions for \(x\)?
 
 In general, we can represent all possible solutions for \(x\) as
 
-\[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2k\pi}{n}}\mid k\in\mathbb{Z}\right\}\]
+\[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2\pi k}{n}}\mid k\in\mathbb{Z}\right\}\]
 
 If \(n\) is an integer, then we can reduce this to
 
-\[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2k\pi}{n}}\mid k\in\left\{0,1,2,\dots,n-1\right\}\right\}\]
+\[x\in\left\{r^{\frac{1}{n}}e^{i\frac{\theta+2\pi k}{n}}\mid k\in\left\{0,1,2,\dots,n-1\right\}\right\}\]
 
 {{< katex display=true >}}
 z^{\frac{1}{n}}=\left(e^{i\theta}\right)^{\frac{1}{n}}=e^{i\left(\frac{\theta+2\pi k}{n}\right)}
