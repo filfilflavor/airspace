@@ -12,8 +12,11 @@ Many people believe that node-voltage analysis can be used to determine voltages
 
 ## Proof
 
-Consider the following circuit.
+Consider a circuit with a voltage source with voltage \(V\), a current-controlled voltage source with transresistance \(r\), and a resistor with resistance \(R\) in series. We want to solve for the current \(I\) through the resistor.
 
+Any attempt to solve for \(I\) must invoke some form of the equation
+
+\[V+10I=100I\]
 
 ## References
 
