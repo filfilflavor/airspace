@@ -51,7 +51,7 @@ The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 &=\frac{V_0^+}{Z_0}\left(e^{-\alpha z-j\beta z}-\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
-### Magnitude of voltage and current phasors
+### Magnitudes of the voltage and current phasors
 
 The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
@@ -78,7 +78,7 @@ Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x
 \end{split}
 \]
 
-## Derivation
+## Derivation of the magnitudes of the voltage and current phasors
 
 This can be derived using the formula for the voltage phasor in a lossless (\(\gamma=j\beta\)) transmission line \(\tilde{V}\left(z\right)=V_0^+\left(e^{-j\beta z}+\Gamma e^{j\beta z}\right)\). The derivation is as follows.
 
