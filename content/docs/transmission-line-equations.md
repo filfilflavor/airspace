@@ -66,16 +66,16 @@ Note that some sources refer to \(\angle\Gamma\) as \(\theta_{\mathrm{r}}\), whe
 
 The magnitude of the current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
-\[\begin{split}
-\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
-&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
-\end{split}\]
-
 In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
 
 \[\begin{split}
 \left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
 &=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
+\end{split}\]
+
+\[\begin{split}
+\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
 \end{split}\]
 
 Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
