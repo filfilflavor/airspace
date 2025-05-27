@@ -33,7 +33,8 @@ where \(\Gamma\) is the reflection coefficient.
 The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 
 \[\begin{split}
-\tilde{V}\left(z\right)&=V_0^+\left(e^{-\gamma z}+\Gamma e^{\gamma z}\right)\\
+\tilde{V}\left(z\right)&=V_{0}^{+}e^{-\gamma z}+V_{0}^{-}\Gamma e^{\gamma z}\\
+&=V_0^+\left(e^{-\gamma z}+\Gamma e^{\gamma z}\right)\\
 &=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
