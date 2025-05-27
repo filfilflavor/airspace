@@ -6,9 +6,9 @@ date = 2024-01-14T07:07:07+01:00
 
 # Powers and roots of complex numbers
 
-<p align="center"><img alt="Geometric representation of the 2nd to 6th roots of a complex number z, in polar form re^{iφ}  where r = |z| and φ = arg z. If z is real, φ = 0 or π. Principal roots are shown in black." src="/airspace/img/Visualisation_complex_number_roots.svg" width="400" /></p>
+<p align="center"><img alt="Geometric representation of the 2nd to 6th roots of a complex number z, in polar form re^{iφ} where r = |z| and φ = arg z. If z is real, φ = 0 or π. Principal roots are shown in black." src="/airspace/img/Visualisation_complex_number_roots.svg" width="400" /></p>
 
-Geometric representation of the 2nd to 6th roots of a complex number \(z\), in polar form \(re^{i\varphi}\)  where \(r=\left|z\right|\) and \(\varphi=\arg z\). If \(z\) is real, \(\varphi=0\) or \(\pi\). Principal roots are shown in black.
+Geometric representation of the 2nd to 6th roots of a complex number \(z\), in polar form \(re^{i\varphi}\) where \(r=\left|z\right|\) and \(\varphi=\arg z\). If \(z\) is real, \(\varphi=0\) or \(\pi\). Principal roots are shown in black.
 
 image from https://commons.wikimedia.org/wiki/File:Visualisation_complex_number_roots.svg. caption from https://en.wikipedia.org/wiki/Nth_root#nth_roots
 
