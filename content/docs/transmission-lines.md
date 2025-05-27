@@ -69,7 +69,7 @@ In a *lossless* transmission line, this can be reduced to
 &=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
 \end{split}\]
 
-Since \(d=-z\) cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
+Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
 
 \[
 \begin{split}
