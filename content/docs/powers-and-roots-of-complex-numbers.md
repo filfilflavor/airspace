@@ -16,7 +16,7 @@ image from https://commons.wikimedia.org/wiki/File:Visualisation_complex_number_
 
 Denote by \(z\) a complex number with modulus \(r\) and argument \(\theta\) (\(z=re^{i\theta}\)).
 
-### Powers
+### Powers of \(z\)
 
 If \(x^{\frac{1}{n}}=z\) where \(n\in\mathbb{R}\) and \(n\ne0\), what are all possible solutions for \(x\)?
 
@@ -30,7 +30,7 @@ If \(n\) is an integer, then we can reduce this to
 
 \[x=r^{n}e^{i\theta n}\]
 
-### Roots
+### Roots of \(z\)
 
 If \(x^{n}=z\) where \(n\in\mathbb{R}\) and \(n\ne0\), what are all possible solutions for \(x\)?
 
