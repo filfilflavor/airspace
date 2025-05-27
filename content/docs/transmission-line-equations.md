@@ -67,8 +67,8 @@ Note that some sources refer to \(\angle\Gamma\) as \(\theta_{\mathrm{r}}\), whe
 The magnitude of the current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
 \[\begin{split}
-\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
-&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
+\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
 \end{split}\]
 
 In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
@@ -79,9 +79,11 @@ In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
 \end{split}\]
 
 \[\begin{split}
-\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
-&=\frac{\left|V_0^+\right|}{\left|Z_0\right|}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
+\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
 \end{split}\]
+
+Note that the characteristic impedance of a lossless transmission line is purely real, so \(\left|Z_{0}\right|=Z_{0}\) for a lossless line.
 
 Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that, for a lossless line,
 
@@ -96,8 +98,6 @@ Since \(d=-z\) and cosine is an even function (\(\cos\left(-x\right)=\cos\left(x
 \left|\tilde{I}\left(d\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)\right)^{\frac{1}{2}}\\
 &=\frac{\left|V_0^+\right|}{Z_0}\sqrt{1+\left|\Gamma\right|^2-2\left|\Gamma\right|\cos\left(2\beta d-\angle\Gamma\right)}
 \end{split}\]
-
-Note that the characteristic impedance of a lossless transmission line is purely real, so \(\left|Z_{0}\right|=Z_{0}\) for a lossless line.
 
 ## Derivation of the magnitudes of the voltage and current phasors
 
