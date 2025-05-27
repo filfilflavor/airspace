@@ -30,7 +30,7 @@ If \(n\) is an integer, then we can reduce this to
 
 ### Roots
 
-If \(x^{n}=z\) where \(n\in\mathbb{R}\), what are all possible solutions for \(x\)?
+If \(x^{n}=z\) where \(n\in\mathbb{R}\) and \(n\ne0\), what are all possible solutions for \(x\)?
 
 In general, we can represent all possible solutions for \(x\) as
 
