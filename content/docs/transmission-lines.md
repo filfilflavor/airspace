@@ -29,7 +29,7 @@ The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 &=V_0^+\left(e^{-\alpha z-j\beta z}+\Gamma e^{\alpha z+j\beta z}\right)
 \end{split}\]
 
-\(\left(V_{0}^{+},I_{0}^{+}\right)\) are the wave amplitudes of the \(+z\) propagating wave and \(\left(V_{0}^{-},I_{0}^{-}\right)\) are the wave amplitudes of the \(-z\) propagating wave. The reflection coefficient \(\Gamma\) is \(\frac{V_{0}^{-}}{V_{0}^{+}}\)
+\(\left(V_{0}^{+},I_{0}^{+}\right)\) are the wave amplitudes of the \(+z\) propagating wave and \(\left(V_{0}^{-},I_{0}^{-}\right)\) are the wave amplitudes of the \(-z\) propagating wave. The reflection coefficient \(\Gamma\) is \(\frac{V_{0}^{-}}{V_{0}^{+}}=-\frac{I_{0}^{-}}{I_{0}^{+}}\).
 
 The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
