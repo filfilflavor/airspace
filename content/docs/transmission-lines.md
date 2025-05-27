@@ -69,7 +69,7 @@ In a *lossless* transmission line, this can be reduced to
 &=\left|V_0^+\right|\sqrt{1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)}
 \end{split}\]
 
-Note that spatial position \(z=-l\) corresponds to the sending end (generator terminals) and spatial position \(z=0\) corresponds to the location of the load. Coordinate \(d\) is defined as \(d=-z\) and denotes distance from the load. Since cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
+Since \(d=-z\) cosine is an even function (\(\cos\left(-x\right)=\cos\left(x\right)\)), we also know that
 
 \[
 \begin{split}
