@@ -14,9 +14,11 @@ Many people believe that node-voltage analysis can be used to determine voltages
 
 Consider a circuit with a voltage source with voltage \(V\), a current-controlled voltage source with transresistance \(r\), and a resistor with resistance \(R\) in series. We want to solve for the current \(I\) through the resistor.
 
-Any attempt to solve for \(I\) must invoke some form of the equation
+Any attempt to solve for \(I\) must involve some form of the equation
 
-\[V+10I=100I\]
+{{< katex display=true >}}
+V+10I=100I
+{{< /katex >}}
 
 But this equation is a result of Kirchhoff's voltage law, not of Kirchhoff's current law. Therefore, node-voltage analysis is not sufficient for this circuit.
 
