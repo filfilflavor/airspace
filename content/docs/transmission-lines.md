@@ -14,7 +14,7 @@ source: https://eme2e.eecs.umich.edu/figs/f2.09.pdf (from https://eme2e.eecs.umi
 
 ## Equations
 
-### Complex propagation constant and traveling wave solutions of the wave equations
+### Traveling wave solutions of the wave equations
 
 \[\gamma=\alpha+j\beta\]
 
@@ -39,6 +39,8 @@ The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
 \end{split}\]
 
 \[Z_{0}=\frac{V_{0}^{+}}{I_{0}^{+}}=-\frac{V_{0}^{-}}{I_{0}^{-}}\]
+
+where \(Z_{0}\) is the characteristic impedance of the line.
 
 The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
