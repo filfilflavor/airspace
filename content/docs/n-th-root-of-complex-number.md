@@ -24,7 +24,7 @@ In general, we can represent all possible solutions for \(x\) as
 
 If \(n\) is an integer, then we can reduce this to
 
-\[x=e^{i\theta n}\]
+\[x=r^{n}e^{i\theta n}\]
 
 ### Roots
 
