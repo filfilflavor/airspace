@@ -62,7 +62,7 @@ The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmissio
 \end{split}
 {{< /katex >}}
 
-Note that some sources refer to \(\angle\Gamma\) as \(\theta_r\), where \(\Gamma=\left|\Gamma\right|e^{j\angle\Gamma}=\left|\Gamma\right|e^{j\theta_r}\).
+Note that some sources refer to \(\angle\Gamma\) as \(\theta_{\mathrm{r}}\), where \(\Gamma=\left|\Gamma\right|e^{j\angle\Gamma}=\left|\Gamma\right|e^{j\theta_{\mathrm{r}}}\).
 
 The magnitude of the current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
