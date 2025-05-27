@@ -66,6 +66,11 @@ Note that some sources refer to \(\angle\Gamma\) as \(\theta_{\mathrm{r}}\), whe
 
 The magnitude of the current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
 
+\[\begin{split}
+\left|\tilde{I}\left(z\right)\right|&=\frac{\left|V_0^+\right|}{Z_0}\left(e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)\right)^{\frac{1}{2}}\\
+&=\frac{\left|V_0^+\right|}{Z_0}\sqrt{e^{-2\alpha z}+\left|\Gamma\right|^2e^{2\alpha z}-2\left|\Gamma\right|\cos\left(2\beta z+\angle\Gamma\right)}
+\end{split}\]
+
 In a *lossless* transmission line (\(\alpha=0\)), these can be reduced to
 
 \[\begin{split}
