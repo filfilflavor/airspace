@@ -22,7 +22,15 @@ where \(\gamma\) is the complex propagation constant of the transmission line, \
 
 In a lossless transmission line, \(\alpha=0\) and \(\gamma=j\beta\).
 
-The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
+The voltage phasor \(\tilde{V}\left(z\right)\) in a transmission line is
+
+\[\tilde{V}\left(z\right)=V_0^+\left(e^{-\alpha-j\beta z}+\Gamma e^{\alpha+j\beta z}\right)\]
+
+The current phasor \(\tilde{I}\left(z\right)\) in a transmission line is
+
+\[\tilde{I}\left(z\right)=V_0^+\left(e^{-\alpha-j\beta z}+\Gamma e^{\alpha+j\beta z}\right)\]
+
+Note that spatial position \(z=-l\) corresponds to the sending end (generator terminals) and spatial position \(z=0\) corresponds to the location of the load. Coordinate \(d\) is defined as \(d=-z\) and denotes distance from the load.
 
 ### Magnitude of voltage and current phasors
 
@@ -35,7 +43,7 @@ The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a transmissio
 \end{split}
 {{< /katex >}}
 
-The magnitude of the voltage phasor \(\tilde{V}\left(z\right)\) in a *lossless* transmission line is
+In a *lossless* transmission line, this can be reduced to
 
 \[\begin{split}
 \left|\tilde{V}\left(z\right)\right|&=\left|V_0^+\right|\left(1+\left|\Gamma\right|^2+2\left|\Gamma\right|\cos\left(2\beta z+\theta_r\right)\right)^{\frac{1}{2}}\\
