@@ -1,6 +1,6 @@
 +++
 weight = 2
-title = 'Powers and roots of complex numbers'
+title = 'Exponentiation of real numbers to real exponents'
 date = 2024-01-14T07:07:07+01:00
 +++
 
