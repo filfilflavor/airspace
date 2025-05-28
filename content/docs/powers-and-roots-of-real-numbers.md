@@ -12,6 +12,8 @@ For zero, ...
 
 For a positive base, exponentiation to a real power cannot make the number negative or introduce any imaginary component to the number.
 
+> [For positive real numbers... The result is always a positive real number, and the identities and properties shown above for integer exponents remain true with these definitions for real exponents.](https://en.wikipedia.org/wiki/Exponentiation)
+
 \[b^{m}\cdot b^{n}=b^{m+n}\]
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
 \[b^{m}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
