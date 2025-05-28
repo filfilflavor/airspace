@@ -20,9 +20,9 @@ b^{m}\cdot b^{n}=b^{m+n}
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
 \[b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
 
-> [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
-
 For a negative base, exponentiation to a real power can introduce imaginary components.
+
+> [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
 ## References
 
