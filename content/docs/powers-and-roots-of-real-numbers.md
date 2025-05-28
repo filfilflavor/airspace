@@ -18,7 +18,7 @@ For a positive base, exponentiation to a real power cannot make the number negat
 b^{m}\cdot b^{n}=b^{m+n}
 {{< /katex >}}
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
-\[b^{m}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
+\[b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
 
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
