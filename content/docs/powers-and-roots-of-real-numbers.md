@@ -8,9 +8,17 @@ date = 2024-01-14T07:07:07+01:00
 
 ## Statement
 
-For a nonnegative number, exponentiation to a real power cannot make the number negative or introduce any imaginary component to the number.
+For zero, ...
 
-For a negative number, exponentiation to a real power can introduce imaginary components.
+For a positive base, exponentiation to a real power cannot make the number negative or introduce any imaginary component to the number.
+
+\[b^{m}\cdot b^{n}=b^{m+n}\]
+\[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
+\[b^{m}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
+
+> [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
+
+For a negative base, exponentiation to a real power can introduce imaginary components.
 
 ## References
 
