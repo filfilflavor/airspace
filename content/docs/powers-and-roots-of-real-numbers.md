@@ -12,7 +12,9 @@ in progress
 
 ## Statement
 
-For zero, ...
+For zero, if \(n>0\), then \(0^{n}=0\). If \(n<0\), then \(0^{n}\) is undefined.
+
+> [In some contexts (e.g., combinatorics), the expression \(0^{0}\) is defined to be equal to \(1\); in others (e.g., analysis), it is often undefined.](https://en.wikipedia.org/wiki/Exponentiation#Powers_of_zero)
 
 For a positive base, exponentiation to a real power cannot make the number negative or introduce any imaginary component to the number.
 
