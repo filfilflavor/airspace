@@ -51,3 +51,5 @@ For a negative base, exponentiation to a real power can introduce imaginary comp
 ## References
 
 https://en.wikipedia.org/wiki/Exponentiation
+
+https://math.stackexchange.com/questions/2114774/what-is-1x
