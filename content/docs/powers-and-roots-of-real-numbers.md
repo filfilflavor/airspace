@@ -28,11 +28,11 @@ b^{m}\cdot b^{n}=b^{m+n}
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
 \[b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
 
-Irrational exponents can be defined using limits of rational exponents (this is intuitive). but a [formal description of this](https://en.wikipedia.org/wiki/Exponentiation#Limits_of_rational_exponents) is
+Irrational exponents can be defined using limits of rational exponents (this is intuitive). A [formal description of this](https://en.wikipedia.org/wiki/Exponentiation#Limits_of_rational_exponents) is
 
 \[b^x = \lim_{r (\in \mathbb{Q}) \to x} b^r \quad (b \in \mathbb{R}^+,\, x \in \mathbb{R})\]
 
---
+---
 
 For a negative base, exponentiation to a real power can introduce imaginary components.
 
