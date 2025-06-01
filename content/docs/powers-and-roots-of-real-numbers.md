@@ -16,6 +16,8 @@ For zero, if \(n>0\), then \(0^{n}=0\). If \(n<0\), then \(0^{n}\) is undefined.
 
 > [In some contexts (e.g., combinatorics), the expression \(0^{0}\) is defined to be equal to \(1\); in others (e.g., analysis), it is often undefined.](https://en.wikipedia.org/wiki/Exponentiation#Powers_of_zero)
 
+---
+
 For a positive base, exponentiation to a real power cannot make the number negative or introduce any imaginary component to the number.
 
 > [For positive real numbers... The result is always a positive real number, and the identities and properties shown above for integer exponents remain true with these definitions for real exponents.](https://en.wikipedia.org/wiki/Exponentiation)
@@ -25,6 +27,12 @@ b^{m}\cdot b^{n}=b^{m+n}
 {{< /katex >}}
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
 \[b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
+
+Irrational exponents can be defined using limits of rational exponents (this is intuitive). but a [formal description of this](https://en.wikipedia.org/wiki/Exponentiation#Limits_of_rational_exponents) is
+
+\[b^x = \lim_{r (\in \mathbb{Q}) \to x} b^r \quad (b \in \mathbb{R}^+,\, x \in \mathbb{R})\]
+
+---
 
 For a negative base, exponentiation to a real power can introduce imaginary components.
 
