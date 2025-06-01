@@ -28,7 +28,7 @@ b^{m}\cdot b^{n}=b^{m+n}
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
 \[b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
 
-This means that for a rational number \(\frac{p}{q}\),
+This means that [for a rational number \(\frac{p}{q}\)](https://en.wikipedia.org/wiki/Exponentiation#Rational_exponents),
 
 \[x^\frac pq= \left(x^p\right)^\frac 1q=(x^\frac 1q)^p\]
 
