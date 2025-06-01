@@ -28,6 +28,10 @@ b^{m}\cdot b^{n}=b^{m+n}
 \[\left(b^{m}\right)^{n}=b^{m\cdot n}\]
 \[b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\]
 
+This means that for a rational number \(\frac{p}{q}\),
+
+\[x^\frac pq= \left(x^p\right)^\frac 1q=(x^\frac 1q)^p\]
+
 Irrational exponents can be defined using limits of rational exponents (this is intuitive). A [formal description of this](https://en.wikipedia.org/wiki/Exponentiation#Limits_of_rational_exponents) is
 
 \[b^x = \lim_{r (\in \mathbb{Q}) \to x} b^r \quad (b \in \mathbb{R}^+,\, x \in \mathbb{R})\]
