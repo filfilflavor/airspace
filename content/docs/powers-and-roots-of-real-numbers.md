@@ -26,6 +26,8 @@ b^{m}\cdot b^{n}=b^{m+n}
 
 For a negative base, exponentiation to a real power can introduce imaginary components.
 
+\[\left(\left(-1\right)^{\frac{1}{2}}\right)^{2}\]
+
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
 ## References
