@@ -42,6 +42,8 @@ Irrational exponents can be defined using limits of rational exponents (this is 
 
 For a negative base, exponentiation to a real power can introduce imaginary components.
 
+Exponent rules hold for integer exponents.
+
 \[\left(\left(-1\right)^{\frac{1}{2}}\right)^{2}=-1\]
 \[\left(\left(-1\right)^{2}\right)^{\frac{1}{2}}=1\]
 \[\left(-1\right)^{2\cdot\frac{1}{2}}=-1\]
