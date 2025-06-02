@@ -38,6 +38,8 @@ Irrational exponents can be defined using limits of rational exponents (this is 
 
 \[b^x = \lim_{r (\in \mathbb{Q}) \to x} b^r \quad (b \in \mathbb{R}^+,\, x \in \mathbb{R})\]
 
+\[b^{-n}=\frac{1}{b^{n}}\]
+
 ---
 
 For a negative base, exponentiation to a real power can introduce imaginary components.
