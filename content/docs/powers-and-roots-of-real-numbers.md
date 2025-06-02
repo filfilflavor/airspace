@@ -52,7 +52,7 @@ For a negative base, exponentiation to a real power can introduce imaginary comp
 
 Since \(-b\) is positive, the rules above can be used for \(\left(-b\right)^{x}\).
 
-Note that \(b\in\mathbb{R}\) if \(x\in\mathbb{Z}\), regardless of the choice of \(k\). \(\pi x+2\pi kx=\pi\left(x+2kx\right)\)
+Note that \(b\in\mathbb{R}\) if \(x\in\mathbb{Z}\), regardless of the choice of \(k\). \(\pi x+2\pi kx=\left(x+2kx\right)\pi\), and \(\left(x+2kx\right)\in\mathbb{Z}\). Therefore, \(\sin\left(\pi x+2\pi kx\right)\right)=0\).
 
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
