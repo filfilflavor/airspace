@@ -62,6 +62,12 @@ Note that \(b\in\mathbb{R}\) if \(x\in\mathbb{Z}\), regardless of the choice of 
 
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
+\(\left(b^{m}\right)^{n}=b^{m\cdot n}\) holds for complex base
+
+\(b^{n}\cdot c^{n}=\left(b\cdot c\right)^{n}\) holds for complex base
+
+\(b^{m}\cdot b^{n}=b^{m+n}\) does not hold?
+
 ## References
 
 https://en.wikipedia.org/wiki/Exponentiation
