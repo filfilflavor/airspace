@@ -48,6 +48,8 @@ For a negative base, exponentiation to a real power can introduce imaginary comp
 
 \[\left(-a\right)^{x}=a^{x}\left(\cos\left(\pi x\right)+i\sin\left(\pi x\right)\right)\]
 
+\[\left(-a\right)^{x}=a^{x}\left(\cos\left(\pi x+2\pi kx\right)+i\sin\left(\pi x+2\pi kx\right)\right)\]
+
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
 ## References
