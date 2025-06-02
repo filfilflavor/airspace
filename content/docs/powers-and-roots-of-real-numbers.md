@@ -44,7 +44,7 @@ For a negative base, exponentiation to a real power can introduce imaginary comp
 \[\left(\left(-1\right)^{2}\right)^{\frac{1}{2}}=1\]
 \[\left(-1\right)^{2\cdot\frac{1}{2}}=-1\]
 
-\(\left(b^{m}\right)^{n}=b^{m\cdot n}\) does *not* hold. \(\left(b^{m}\right)^{n}=b^{m\cdot n}\) must be calculated by first calculating \(b^{m}\), and then taking that result to the \(n\)th power.
+\(\left(b^{m}\right)^{n}=b^{m\cdot n}\) does *not* hold. Instead, \(\left(b^{m}\right)^{n}\) must be calculated by first calculating \(b^{m}\), and then taking that result to the \(n\)th power.
 
 \[\left(-a\right)^{x}=a^{x}\left(\cos\left(\pi x\right)+i\sin\left(\pi x\right)\right)\]
 
