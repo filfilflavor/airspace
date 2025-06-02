@@ -32,6 +32,8 @@ This means that [for a rational number \(\frac{p}{q}\)](https://en.wikipedia.org
 
 \[x^\frac pq= \left(x^p\right)^\frac 1q=(x^\frac 1q)^p\]
 
+\(x^{\frac{1}{n}}\) or \(\sqrt[n]x\) denotes the unique nonnegative real \(n\)th root of \(x\). Even if there are multiple \(n\)th roots of \(x\), there is only one value of \(x^{\frac{1}{n}}\).
+
 Irrational exponents can be defined using limits of rational exponents (this is intuitive). A [formal description of this](https://en.wikipedia.org/wiki/Exponentiation#Limits_of_rational_exponents) is
 
 \[b^x = \lim_{r (\in \mathbb{Q}) \to x} b^r \quad (b \in \mathbb{R}^+,\, x \in \mathbb{R})\]
