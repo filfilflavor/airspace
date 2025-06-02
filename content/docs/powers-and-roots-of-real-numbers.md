@@ -50,6 +50,8 @@ For a negative base, exponentiation to a real power can introduce imaginary comp
 
 \[b^{x}=\left(-b\right)^{x}\left(\cos\left(\pi x+2\pi kx\right)+i\sin\left(\pi x+2\pi kx\right)\right)\]
 
+Since \(-b\) is positive, the rules above can be used for \(\left(-b\right)^{x}\).
+
 Note that \(b\in\mathbb{R}\) if \(x\in\mathbb{Z}\), regardless of the choice of \(k\).
 
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
