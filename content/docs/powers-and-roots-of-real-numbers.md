@@ -46,9 +46,11 @@ For a negative base, exponentiation to a real power can introduce imaginary comp
 
 \(\left(b^{m}\right)^{n}=b^{m\cdot n}\) does *not* hold. Instead, \(\left(b^{m}\right)^{n}\) must be calculated by first calculating \(b^{m}\), and then taking that result to the \(n\)th power.
 
-\[\left(-a\right)^{x}=a^{x}\left(\cos\left(\pi x\right)+i\sin\left(\pi x\right)\right)\]
+\[b^{x}=\left(-b\right)^{x}\left(\cos\left(\pi x\right)+i\sin\left(\pi x\right)\right)\]
 
-\[\left(-a\right)^{x}=a^{x}\left(\cos\left(\pi x+2\pi kx\right)+i\sin\left(\pi x+2\pi kx\right)\right)\]
+\[b^{x}=\left(-b\right)^{x}\left(\cos\left(\pi x+2\pi kx\right)+i\sin\left(\pi x+2\pi kx\right)\right)\]
+
+Note that \(b\in\mathbb{R}\) if \(x\in\mathbb{Z}\), regardless of the choice of \(k\).
 
 > [Therefore, exponentiation with a basis that is not a positive real number is generally viewed as a multivalued function.](https://en.wikipedia.org/wiki/Exponentiation)
 
