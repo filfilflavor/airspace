@@ -75,3 +75,7 @@ However, \(z^{\frac{1}{n}}\) is
 When \(n\ne0\) and \(n\ne\pm1\), \(2\pi\cdot\frac{k}{n}\) is not an integer multiple of \(2\pi\) for all \(k\in\mathbb{Z}\) (meaning, there exists at least one value of \(k\in\mathbb{Z}\) for which \(\frac{k}{n}\) is not an integer). Therefore, we do *not* reduce \(z^{\frac{1}{n}}\) to \(e^{\frac{i\theta}{n}}\).
 
 ## References
+
+https://math.stackexchange.com/questions/322481/principal-nth-root-of-a-complex-number
+
+https://www.reddit.com/r/askmath/comments/17sztny/principal_square_root_of_complex_numbers/
