@@ -8,6 +8,8 @@ date = 2024-01-14T07:07:07+01:00
 
 {{% hint warning %}}
 in progress
+
+need to fix circularity
 {{% /hint %}}
 
 <p align="center"><img alt="Geometric representation of the 2nd to 6th roots of a complex number z, in polar form re^{iφ} where r = |z| and φ = arg z. If z is real, φ = 0 or π. Principal roots are shown in black." src="/airspace/img/Visualisation_complex_number_roots.svg" width="400" /></p>
