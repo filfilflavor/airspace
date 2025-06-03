@@ -68,6 +68,8 @@ Note that \(b\in\mathbb{R}\) if \(x\in\mathbb{Z}\), regardless of the choice of 
 
 \(b^{m}\cdot b^{n}=b^{m+n}\) does not hold?
 
+principal root = greatest real part
+
 ## References
 
 https://en.wikipedia.org/wiki/Exponentiation
