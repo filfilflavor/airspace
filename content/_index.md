@@ -11,4 +11,4 @@ https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/
 
 https://terrytao.wordpress.com/career-advice/make-your-work-available/
 
-Visit [this link](docs/transmission-lines/) to view some transmission line equations.
+Visit [this link](docs/transmission-line-equations/) to view some transmission line equations.
