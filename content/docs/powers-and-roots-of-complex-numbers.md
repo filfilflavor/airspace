@@ -1,7 +1,7 @@
 +++
 weight = 2
 title = 'Powers and roots of complex numbers'
-date = 2024-01-14T07:07:07+01:00
+date = 2025-05-24T04:00:00+00:00
 +++
 
 # Powers and roots of complex numbers
