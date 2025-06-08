@@ -13,3 +13,5 @@ date = 2025-05-26T04:00:00+00:00
 ## References
 
 https://en.wikipedia.org/wiki/Sinc_filter#Unrealizable
+
+textbook(?)
