@@ -20,11 +20,11 @@ $$z\triangleq a+-bi=R\cos(\varphi)+R\sin(\varphi)i$$
 $$\mathfrak{R}\{z\}=a=R\cos(\varphi)\quad\text{and}\quad\mathfrak{I}\{z\}=-b=R\sin(\varphi)$$
 $$|R|=\sqrt{a^2+b^2}=|z|$$
 $$\varphi=\arg(z)$$
-$$$$
+$$-$$
 $$R\cos(\omega x+\varphi)=a\cos(\omega x)+b\sin(\omega x)$$
-$$$$
+$$-$$
 $$\text{Non-unique solution to convert sum of same-frequency sinusoids to cosine in the above format:}$$
 $$\quad R=\sqrt{a^2+b^2}\quad\text{and}\quad\varphi=\operatorname{{atan}2}(-b,a)$$
-$$$$
+$$-$$
 $$\text{Unique solution to convert cosine to sum of same-frequency sinusoids in the above format:}$$
 $$\quad a=R\cos(\varphi)\quad\text{and}\quad b=-R\sin(\varphi)$$
