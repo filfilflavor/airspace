@@ -6,7 +6,9 @@ date = 2025-05-26T04:00:00+00:00
 
 # A nice trig identity
 
-$$\cos(x+y)=\cos(x)\cos(y)-\sin(x)\sin(y)$$
+{{< katex display=true >}}
+\cos(x+y)=\cos(x)\cos(y)-\sin(x)\sin(y)
+{{< /katex >}}
 $$\cos(\omega x+\varphi)=\cos(\omega x)\cos(\varphi)-\sin(\omega x)\sin(\varphi)$$
 $$R\cos(\omega x+\varphi)=R\cos(\omega x)\cos(\varphi)-R\sin(\omega x)\sin(\varphi)$$
 $$R\cos(\omega x+\varphi)=\left(R\cos(\varphi)\right)\cos(\omega x)+\left(-R\sin(\varphi)\right)\sin(\omega x)$$
